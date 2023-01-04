@@ -34,4 +34,4 @@ public:
 ## Notes
 
 - Create a hashmap of the sorted string mapped to a vector of strings, this way after sorting, just append the string to the vector of strings whose sorted string matches the key. This is `O(m.nlogn)`, pretty slow.
-- This can be made faster by exploiting the fact that only lowercase alphabets will be used, and hence just count the occurence of what all occurs how many times and use that as the key in the hashmap. `O(m.n.26) = O(m.n)` Uses extra space 26 everytime.
+- This can be made faster by exploiting the fact that only lowercase alphabets will be used, and hence just count the occurence of what all occurs how many times and use that as the key in the hashmap. `O(m.n.26) = O(m.n)` Uses extra space 26 everytime. Create a string of what all occurs how many times, represent it in binary and keep that as the key in the hashmap.
