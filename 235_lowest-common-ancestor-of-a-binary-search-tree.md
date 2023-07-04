@@ -87,3 +87,4 @@ public:
 ## Notes
 
 - Since this is a binary search tree, the first point they split should be the lowest common ancestor.
+- Keep traversing until they split and then return the node at which it splits.
