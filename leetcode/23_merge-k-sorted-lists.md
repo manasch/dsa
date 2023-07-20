@@ -4,6 +4,7 @@
 
 - Hard
 - [Submission](https://leetcode.com/problems/merge-k-sorted-lists/submissions/999366498/)
+- [Submission](https://leetcode.com/problems/merge-k-sorted-lists/submissions/999380782/)
 - linked-list, divide-and-conquer, heap-priority-queue, merge-sort
 
 ---
@@ -104,9 +105,86 @@ public:
 };
 ```
 
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+private:
+    ListNode* mergeList(ListNode* l1, ListNode* l2) {
+        if (l1 == nullptr && l2 == nullptr) {
+            return NULL;
+        }
+
+        if (l1 == nullptr) return l2;
+        if (l2 == nullptr) return l1;
+
+        ListNode* head = NULL;
+        
+        if (l1->val <= l2->val) {
+            head = l1;
+            l1 = l1->next;
+        }
+        else {
+            head = l2;
+            l2 = l2->next;
+        }
+
+        ListNode *curr = head;
+        while (l1 != nullptr && l2 != nullptr) {
+            if (l1->val <= l2->val) {
+                curr->next = l1;
+                l1 = l1->next;
+            }
+            else {
+                curr->next = l2;
+                l2 = l2->next;
+            }
+            curr = curr->next;
+        }
+
+        if (l1 == nullptr) {
+            curr->next = l2;
+        }
+        else {
+            curr->next = l1;
+        }
+        return head;
+    }
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if (lists.empty()) {
+            return NULL;
+        }
+        vector<ListNode*> newLists;
+        while (lists.size() > 1) {
+            for (int i = 0; i < lists.size(); i += 2) {
+                ListNode* l1 = lists[i];
+                ListNode* l2 = i + 1 < lists.size() ? lists[i + 1] : nullptr;
+                newLists.push_back(mergeList(l1, l2));
+            }
+            lists.clear();
+            lists.insert(lists.end(), newLists.begin(), newLists.end());
+            newLists.clear();
+        }
+
+        return lists[0];
+    }
+};
+```
+
 ---
 
 ## Notes
 
 - Used a min-heap to store all the numbers and then popped them all out to create the new linked list.
-- This can be solved using a similar method in which merge sort is done, will try that next.
+- This can be solved using a similar method in which merge sort is done.
+- Create another function which merges two lists at once, and iterate through the vector of lists 2 at a time to merge them and reduce the number of lists to be merged at each iteration by 2.
+- When the lists vector has only 1 list remaining return that as the answer.
