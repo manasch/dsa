@@ -1,3 +1,8 @@
 incomplete
 __pycache__
 .vscode
+
+# Object files
+*.exe
+*.o
+*.out
