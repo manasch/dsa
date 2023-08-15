@@ -52,6 +52,32 @@ public:
             nums[j + 1] = v;
         }
     }
+    
+    int partition(int i, int j) {
+        int pivot = nums[i];
+        int l = i, h = j;
+        while (l < h) {
+            do {
+                ++l;
+            } while (nums[l] <= pivot);
+            do {
+                --h;
+            } while (nums[h] > pivot);
+            if (l < h) {
+                swap(nums[l], nums[h]);
+            }
+        }
+        swap(nums[i], nums[h]);
+        return h;
+    }
+    
+    void quickSort(int i, int j) {
+        if (i < j) {
+            int p = partition(i, j);
+            quickSort(i, p);
+            quickSort(p + 1, j);
+        }
+    }
 
     vector<T> getSortedArray() {
         return nums;
@@ -87,6 +113,16 @@ int main() {
         print(nums);
         Sort<int> sorter(nums);
         sorter.insertionSort();
+        cout << "After sorting" << endl;
+        sorted = sorter.getSortedArray();
+        print(sorted);
+    }
+    {
+        cout << endl << "Quick Sort" << endl;
+        cout << "Before sorting" << endl;
+        print(nums);
+        Sort<int> sorter(nums);
+        sorter.quickSort(0, nums.size() - 1);
         cout << "After sorting" << endl;
         sorted = sorter.getSortedArray();
         print(sorted);
