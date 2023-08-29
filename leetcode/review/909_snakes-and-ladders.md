@@ -72,10 +72,61 @@ This is the lowest possible number of moves to reach the last square, so return 
 
 ## Solution
 
-```
+```cpp
+class Solution {
+public:
+    int snakesAndLadders(vector<vector<int>>& board) {
+        int n = board.size();
+        int moves = -1;
+        int dest = n * n;
+        unordered_set<int> visited;
+        vector<pair<int, int>> cells (n * n + 1);
+
+        vector<int> col(n);
+        int cell = 1;
+        iota(col.begin(), col.end(), 0);
+        for (int i = n - 1; i >= 0; --i) {
+            for (int c: col) {
+                cells[cell] = {i, c};
+                ++cell;
+            }
+            reverse(col.begin(), col.end());
+        }
+
+        queue<pair<int, int>> q;
+        q.push({0, 1});
+
+        pair<int, int> p;
+        int prevMoves, curr, next;
+        while (!q.empty()) {
+            p = q.front();
+            q.pop();
+
+            prevMoves = p.first;
+            curr = p.second;
+            if (visited.find(curr) == visited.end()) {
+                visited.insert(curr);
+                if (curr == dest) {
+                    moves = prevMoves;
+                    break;
+                }
+                for (int i = 1; i <= 6; ++i) {
+                    if (curr + i <= dest) {
+                        p = cells[curr + i];
+                        next = board[p.first][p.second] == -1 ? curr + i : board[p.first][p.second];
+                        q.push({prevMoves + 1, next});
+                    }
+                }
+            }
+        }
+        return moves;
+    }
+};
 ```
 
 ---
 
 ## Notes
 
+- Convert the given matrix to a usable format, like finding the index in the 2d matrix given the number.
+- Perform BFS starting with 1.
