@@ -81,6 +81,7 @@
 |287|Find the Duplicate Number|[review/287_find-the-duplicate-number.md](./review/287_find-the-duplicate-number.md)|review|https://leetcode.com/problems/find-the-duplicate-number|
 |300|Longest Increasing Subsequence|[hard/300_longest-increasing-subsequence.md](./hard/300_longest-increasing-subsequence.md)|hard|https://leetcode.com/problems/longest-increasing-subsequence|
 |322|Coin Change|[review/322_coin-change.md](./review/322_coin-change.md)|review|https://leetcode.com/problems/coin-change|
+|329|Longest Increasing Path in a Matrix|[review/329_longest-increasing-path-in-a-matrix.md](./review/329_longest-increasing-path-in-a-matrix.md)|review|https://leetcode.com/problems/longest-increasing-path-in-a-matrix|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|

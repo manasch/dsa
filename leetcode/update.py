@@ -24,7 +24,7 @@ def main():
             data += fp.readline()
 
     with open(current_directory / "README.md", "w") as fp:
-        data += "\n\n|ID|Name|File|Tag|Link|\n|--|--|--|--|--|\n"
+        data += "\n|ID|Name|File|Tag|Link|\n|--|--|--|--|--|\n"
         for problem in problems:
             data += f"|{problem[0]}|{problem[1]}|[{problem[2]}](./{problem[2]})|{problem[3]}|{problem[4]}|\n"
         
