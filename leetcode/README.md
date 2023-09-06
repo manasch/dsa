@@ -96,6 +96,7 @@
 |684|Redundant Connection|[hard/684_redundant-connection.md](./hard/684_redundant-connection.md)|hard|https://leetcode.com/problems/redundant-connection|
 |695|Max Area of Island|[confident/695_max-area-of-island.md](./confident/695_max-area-of-island.md)|confident|https://leetcode.com/problems/max-area-of-island|
 |703|Kth Largest Element in a Stream|[review/703_kth-largest-element-in-a-stream.md](./review/703_kth-largest-element-in-a-stream.md)|review|https://leetcode.com/problems/kth-largest-element-in-a-stream|
+|725|Split Linked List in Parts|[confident/725_split-linked-list-in-parts.md](./confident/725_split-linked-list-in-parts.md)|confident|https://leetcode.com/problems/split-linked-list-in-parts|
 |735|Asteroid Collision|[review/735_asteroid-collision.md](./review/735_asteroid-collision.md)|review|https://leetcode.com/problems/asteroid-collision|
 |739|Daily Temperatures|[review/739_daily-temperatures.md](./review/739_daily-temperatures.md)|review|https://leetcode.com/problems/daily-temperatures|
 |740|Delete and Earn|[confident/740_delete-and-earn.md](./confident/740_delete-and-earn.md)|confident|https://leetcode.com/problems/delete-and-earn|
