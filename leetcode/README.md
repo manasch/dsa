@@ -44,6 +44,7 @@
 |86|Partition List|[confident/86_partition-list.md](./confident/86_partition-list.md)|confident|https://leetcode.com/problems/partition-list|
 |90|Subsets II|[review/90_subsets-ii.md](./review/90_subsets-ii.md)|review|https://leetcode.com/problems/subsets-ii|
 |91|Decode Ways|[hard/91_decode-ways.md](./hard/91_decode-ways.md)|hard|https://leetcode.com/problems/decode-ways|
+|92|Reverse Linked List II|[confident/92_reverse-linked-list-ii.md](./confident/92_reverse-linked-list-ii.md)|confident|https://leetcode.com/problems/reverse-linked-list-ii|
 |98|Validate Binary Search Tree|[confident/98_validate-binary-search-tree.md](./confident/98_validate-binary-search-tree.md)|confident|https://leetcode.com/problems/validate-binary-search-tree|
 |100|Same Tree|[review/100_same-tree.md](./review/100_same-tree.md)|review|https://leetcode.com/problems/same-tree|
 |102|Binary Tree Level Order Traversal|[confident/102_binary-tree-level-order-traversal.md](./confident/102_binary-tree-level-order-traversal.md)|confident|https://leetcode.com/problems/binary-tree-level-order-traversal|
