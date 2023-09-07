@@ -57,12 +57,14 @@
 |130|Surrounded Regions|[confident/130_surrounded-regions.md](./confident/130_surrounded-regions.md)|confident|https://leetcode.com/problems/surrounded-regions|
 |131|Palindrome Partitioning|[review/131_palindrome-partitioning.md](./review/131_palindrome-partitioning.md)|review|https://leetcode.com/problems/palindrome-partitioning|
 |133|Clone Graph|[review/133_clone-graph.md](./review/133_clone-graph.md)|review|https://leetcode.com/problems/clone-graph|
+|136|Single Number|[confident/136_single-number.md](./confident/136_single-number.md)|confident|https://leetcode.com/problems/single-number|
 |138|Copy List with Random Pointer|[confident/138_copy-list-with-random-pointer.md](./confident/138_copy-list-with-random-pointer.md)|confident|https://leetcode.com/problems/copy-list-with-random-pointer|
 |143|Reorder List|[confident/143_reorder-list.md](./confident/143_reorder-list.md)|confident|https://leetcode.com/problems/reorder-list|
 |150|Evaluate Reverse Polish Notation|[confident/150_evaluate-reverse-polish-notation.md](./confident/150_evaluate-reverse-polish-notation.md)|confident|https://leetcode.com/problems/evaluate-reverse-polish-notation|
 |155|Min Stack|[review/155_min-stack.md](./review/155_min-stack.md)|review|https://leetcode.com/problems/min-stack|
 |167|Two Sum II - Input Array Is Sorted|[review/167_two-sum-ii-input-array-is-sorted.md](./review/167_two-sum-ii-input-array-is-sorted.md)|review|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted|
 |178|Graph Valid Tree|[review/178_graph-valid-tree.md](./review/178_graph-valid-tree.md)|review|https://www.lintcode.com/problem/178|
+|191|Number of 1 Bits|[confident/191_number-of-1-bits.md](./confident/191_number-of-1-bits.md)|confident|https://leetcode.com/problems/number-of-1-bits|
 |198|House Robber|[review/198_house-robber.md](./review/198_house-robber.md)|review|https://leetcode.com/problems/house-robber|
 |199|Binary Tree Right Side View|[review/199_binary-tree-right-side-view.md](./review/199_binary-tree-right-side-view.md)|review|https://leetcode.com/problems/binary-tree-right-side-view|
 |200|Number of Islands|[confident/200_number-of-islands.md](./confident/200_number-of-islands.md)|confident|https://leetcode.com/problems/number-of-islands|
@@ -84,6 +86,7 @@
 |300|Longest Increasing Subsequence|[hard/300_longest-increasing-subsequence.md](./hard/300_longest-increasing-subsequence.md)|hard|https://leetcode.com/problems/longest-increasing-subsequence|
 |322|Coin Change|[review/322_coin-change.md](./review/322_coin-change.md)|review|https://leetcode.com/problems/coin-change|
 |329|Longest Increasing Path in a Matrix|[review/329_longest-increasing-path-in-a-matrix.md](./review/329_longest-increasing-path-in-a-matrix.md)|review|https://leetcode.com/problems/longest-increasing-path-in-a-matrix|
+|338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|
