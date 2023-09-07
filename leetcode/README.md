@@ -38,6 +38,7 @@
 |63|Unique Paths II|[confident/63_unique-paths-ii.md](./confident/63_unique-paths-ii.md)|confident|https://leetcode.com/problems/unique-paths-ii|
 |64|Minimum Path Sum|[confident/64_minimum-path-sum.md](./confident/64_minimum-path-sum.md)|confident|https://leetcode.com/problems/minimum-path-sum|
 |70|Climbing Stairs|[review/70_climbing-stairs.md](./review/70_climbing-stairs.md)|review|https://leetcode.com/problems/climbing-stairs|
+|72|Edit Distance|[hard/72_edit-distance.md](./hard/72_edit-distance.md)|hard|https://leetcode.com/problems/edit-distance|
 |76|Minimum Window Substring|[review/76_minimum-window-substring.md](./review/76_minimum-window-substring.md)|review|https://leetcode.com/problems/minimum-window-substring|
 |78|Subsets|[review/78_subsets.md](./review/78_subsets.md)|review|https://leetcode.com/problems/subsets|
 |79|Word Search|[confident/79_word-search.md](./confident/79_word-search.md)|confident|https://leetcode.com/problems/word-search|
