@@ -89,6 +89,7 @@
 |329|Longest Increasing Path in a Matrix|[review/329_longest-increasing-path-in-a-matrix.md](./review/329_longest-increasing-path-in-a-matrix.md)|review|https://leetcode.com/problems/longest-increasing-path-in-a-matrix|
 |338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
+|377|Combination Sum IV|[confident/377_combination-sum-iv.md](./confident/377_combination-sum-iv.md)|confident|https://leetcode.com/problems/combination-sum-iv|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|
 |433|Minimum Genetic Mutation|[hard/433_minimum-genetic-mutation.md](./hard/433_minimum-genetic-mutation.md)|hard|https://leetcode.com/problems/minimum-genetic-mutation|
