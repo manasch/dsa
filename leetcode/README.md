@@ -126,5 +126,6 @@
 |1448|Count Good Nodes in Binary Tree|[confident/1448_count-good-nodes-in-binary-tree.md](./confident/1448_count-good-nodes-in-binary-tree.md)|confident|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
 |1706|Where Will the Ball Fall|[hard/1706_where-will-the-ball-fall.md](./hard/1706_where-will-the-ball-fall.md)|hard|https://leetcode.com/problems/where-will-the-ball-fall|
+|1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
 |2062|Count Vowel Substrings of a String|[review/2062_count-vowel-substrings-of-a-string.md](./review/2062_count-vowel-substrings-of-a-string.md)|review|https://leetcode.com/problems/count-vowel-substrings-of-a-string|
 |2369|Check if There is a Valid Partition For The Array|[review/2369_check-if-there-is-a-valid-partition-for-the-array.md](./review/2369_check-if-there-is-a-valid-partition-for-the-array.md)|review|https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array|
