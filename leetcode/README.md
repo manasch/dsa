@@ -58,6 +58,7 @@
 |130|Surrounded Regions|[confident/130_surrounded-regions.md](./confident/130_surrounded-regions.md)|confident|https://leetcode.com/problems/surrounded-regions|
 |131|Palindrome Partitioning|[review/131_palindrome-partitioning.md](./review/131_palindrome-partitioning.md)|review|https://leetcode.com/problems/palindrome-partitioning|
 |133|Clone Graph|[review/133_clone-graph.md](./review/133_clone-graph.md)|review|https://leetcode.com/problems/clone-graph|
+|135|Candy|[review/135_candy.md](./review/135_candy.md)|review|https://leetcode.com/problems/candy|
 |136|Single Number|[confident/136_single-number.md](./confident/136_single-number.md)|confident|https://leetcode.com/problems/single-number|
 |138|Copy List with Random Pointer|[confident/138_copy-list-with-random-pointer.md](./confident/138_copy-list-with-random-pointer.md)|confident|https://leetcode.com/problems/copy-list-with-random-pointer|
 |143|Reorder List|[confident/143_reorder-list.md](./confident/143_reorder-list.md)|confident|https://leetcode.com/problems/reorder-list|
