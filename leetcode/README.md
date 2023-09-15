@@ -12,6 +12,7 @@
 |2|Add Two Numbers|[confident/2_add-two-numbers.md](./confident/2_add-two-numbers.md)|confident|https://leetcode.com/problems/add-two-numbers|
 |3|Longest Substring Without Repeating Characters|[review/3_longest-substring-without-repeating-characters.md](./review/3_longest-substring-without-repeating-characters.md)|review|https://leetcode.com/problems/longest-substring-without-repeating-characters|
 |5|Longest Palindromic Substring|[review/5_longest-palindromic-substring.md](./review/5_longest-palindromic-substring.md)|review|https://leetcode.com/problems/longest-palindromic-substring|
+|10|Regular Expression Matching|[review/10_regular-expression-matching.md](./review/10_regular-expression-matching.md)|review|https://leetcode.com/problems/regular-expression-matching|
 |11|Container With Most Water|[hard/11_container-with-most-water.md](./hard/11_container-with-most-water.md)|hard|https://leetcode.com/problems/container-with-most-water|
 |15|3Sum|[hard/15_3sum.md](./hard/15_3sum.md)|hard|https://leetcode.com/problems/3sum|
 |17|Letter Combinations of a Phone Number|[confident/17_letter-combinations-of-a-phone-number.md](./confident/17_letter-combinations-of-a-phone-number.md)|confident|https://leetcode.com/problems/letter-combinations-of-a-phone-number|
