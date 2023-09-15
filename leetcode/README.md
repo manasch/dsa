@@ -86,8 +86,10 @@
 |242|Valid Anagram|[confident/242_valid-anagram.md](./confident/242_valid-anagram.md)|confident|https://leetcode.com/problems/valid-anagram|
 |287|Find the Duplicate Number|[review/287_find-the-duplicate-number.md](./review/287_find-the-duplicate-number.md)|review|https://leetcode.com/problems/find-the-duplicate-number|
 |300|Longest Increasing Subsequence|[hard/300_longest-increasing-subsequence.md](./hard/300_longest-increasing-subsequence.md)|hard|https://leetcode.com/problems/longest-increasing-subsequence|
+|312|Burst Balloons|[hard/312_burst-balloons.md](./hard/312_burst-balloons.md)|hard|https://leetcode.com/problems/burst-balloons|
 |322|Coin Change|[review/322_coin-change.md](./review/322_coin-change.md)|review|https://leetcode.com/problems/coin-change|
 |329|Longest Increasing Path in a Matrix|[review/329_longest-increasing-path-in-a-matrix.md](./review/329_longest-increasing-path-in-a-matrix.md)|review|https://leetcode.com/problems/longest-increasing-path-in-a-matrix|
+|332|Reconstruct Itinerary|[hard/332_reconstruct-itinerary.md](./hard/332_reconstruct-itinerary.md)|hard|https://leetcode.com/problems/reconstruct-itinerary|
 |338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
 |377|Combination Sum IV|[confident/377_combination-sum-iv.md](./confident/377_combination-sum-iv.md)|confident|https://leetcode.com/problems/combination-sum-iv|
