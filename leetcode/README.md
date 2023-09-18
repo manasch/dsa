@@ -67,6 +67,7 @@
 |155|Min Stack|[review/155_min-stack.md](./review/155_min-stack.md)|review|https://leetcode.com/problems/min-stack|
 |167|Two Sum II - Input Array Is Sorted|[review/167_two-sum-ii-input-array-is-sorted.md](./review/167_two-sum-ii-input-array-is-sorted.md)|review|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted|
 |178|Graph Valid Tree|[review/178_graph-valid-tree.md](./review/178_graph-valid-tree.md)|review|https://www.lintcode.com/problem/178|
+|190|Reverse Bits|[review/190_reverse-bits.md](./review/190_reverse-bits.md)|review|https://leetcode.com/problems/reverse-bits|
 |191|Number of 1 Bits|[confident/191_number-of-1-bits.md](./confident/191_number-of-1-bits.md)|confident|https://leetcode.com/problems/number-of-1-bits|
 |198|House Robber|[review/198_house-robber.md](./review/198_house-robber.md)|review|https://leetcode.com/problems/house-robber|
 |199|Binary Tree Right Side View|[review/199_binary-tree-right-side-view.md](./review/199_binary-tree-right-side-view.md)|review|https://leetcode.com/problems/binary-tree-right-side-view|
