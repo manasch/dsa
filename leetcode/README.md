@@ -86,6 +86,7 @@
 |238|Product of Array Except Self|[hard/238_product-of-array-except-self.md](./hard/238_product-of-array-except-self.md)|hard|https://leetcode.com/problems/product-of-array-except-self|
 |239|Sliding Window Maximum|[review/239_sliding-window-maximum.md](./review/239_sliding-window-maximum.md)|review|https://leetcode.com/problems/sliding-window-maximum|
 |242|Valid Anagram|[confident/242_valid-anagram.md](./confident/242_valid-anagram.md)|confident|https://leetcode.com/problems/valid-anagram|
+|268|Missing Number|[confident/268_missing-number.md](./confident/268_missing-number.md)|confident|https://leetcode.com/problems/missing-number|
 |287|Find the Duplicate Number|[review/287_find-the-duplicate-number.md](./review/287_find-the-duplicate-number.md)|review|https://leetcode.com/problems/find-the-duplicate-number|
 |300|Longest Increasing Subsequence|[hard/300_longest-increasing-subsequence.md](./hard/300_longest-increasing-subsequence.md)|hard|https://leetcode.com/problems/longest-increasing-subsequence|
 |312|Burst Balloons|[hard/312_burst-balloons.md](./hard/312_burst-balloons.md)|hard|https://leetcode.com/problems/burst-balloons|
