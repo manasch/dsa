@@ -4,6 +4,7 @@
 
 - Easy
 - [Submission](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/submissions/1052312192)
+- [Submission](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/submissions/1052321096)
 - array, binary-search, sorting, heap-priority-queue, matrix
 
 ---
@@ -110,8 +111,52 @@ public:
 };
 ```
 
+```cpp
+class Solution {
+public:
+    vector<int> kWeakestRows(vector<vector<int>>& mat, int k) {
+        int m = mat.size();
+        int n = mat[0].size();
+        priority_queue<pair<int, int>> pq;
+
+        auto binarySearch = [&](int beg, int end, int i) -> int {
+            int mid;
+            while (beg <= end) {
+                mid = beg + ((end - beg) >> 1);
+                if (mat[i][mid] == 1) {
+                    beg = mid + 1;
+                }
+                else {
+                    end = mid - 1;
+                }
+            }
+            return beg;
+        };
+
+        int strength;
+        for (int i = 0; i < m; ++i) {
+            strength = 0;
+            pq.push({binarySearch(0, n - 1, i), i});
+            if (pq.size() > k) {
+                pq.pop();
+            }
+        }
+
+        vector<int> res;
+        while (!pq.empty()) {
+            res.push_back(pq.top().second);
+            pq.pop();
+        }
+        reverse(res.begin(), res.end());
+        return res;
+    }
+};
+```
+
 ---
 
 ## Notes
 
 - A simple problem, just create a heap and keep popping when the size is above k, the result would be the result of the order of whatever is popped. Will be utilizing a Max-Heap of size K.
+
+- The search for the 0 can be improved by doing a binary search. And since it is just the strength, don't really need a concrete value as the index will determine the strength.
