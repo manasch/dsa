@@ -96,6 +96,7 @@
 |338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
 |377|Combination Sum IV|[confident/377_combination-sum-iv.md](./confident/377_combination-sum-iv.md)|confident|https://leetcode.com/problems/combination-sum-iv|
+|392|Is Subsequence|[review/392_is-subsequence.md](./review/392_is-subsequence.md)|review|https://leetcode.com/problems/is-subsequence|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|
 |433|Minimum Genetic Mutation|[hard/433_minimum-genetic-mutation.md](./hard/433_minimum-genetic-mutation.md)|hard|https://leetcode.com/problems/minimum-genetic-mutation|
@@ -126,6 +127,7 @@
 |973|K Closest Points to Origin|[confident/973_k-closest-points-to-origin.md](./confident/973_k-closest-points-to-origin.md)|confident|https://leetcode.com/problems/k-closest-points-to-origin|
 |994|Rotting Oranges|[confident/994_rotting-oranges.md](./confident/994_rotting-oranges.md)|confident|https://leetcode.com/problems/rotting-oranges|
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
+|1048|Longest String Chain|[review/1048_longest-string-chain.md](./review/1048_longest-string-chain.md)|review|https://leetcode.com/problems/longest-string-chain|
 |1091|Shortest Path in Binary Matrix|[review/1091_shortest-path-in-binary-matrix.md](./review/1091_shortest-path-in-binary-matrix.md)|review|https://leetcode.com/problems/shortest-path-in-binary-matrix|
 |1143|Longest Common Subsequence|[confident/1143_longest-common-subsequence.md](./confident/1143_longest-common-subsequence.md)|confident|https://leetcode.com/problems/longest-common-subsequence|
 |1282|Group the People Given the Group Size They Belong To|[confident/1282_group-the-people-given-the-group-size-they-belong-to.md](./confident/1282_group-the-people-given-the-group-size-they-belong-to.md)|confident|https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to|
@@ -135,6 +137,7 @@
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
 |1631|Path With Minimum Effort|[review/1631_path-with-minimum-effort.md](./review/1631_path-with-minimum-effort.md)|review|https://leetcode.com/problems/path-with-minimum-effort|
 |1647|Minimum Deletions to Make Character Frequencies Unique|[review/1647_minimum-deletions-to-make-character-frequencies-unique.md](./review/1647_minimum-deletions-to-make-character-frequencies-unique.md)|review|https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique|
+|1658|Minimum Operations to Reduce X to Zero|[review/1658_minimum-operations-to-reduce-x-to-zero.md](./review/1658_minimum-operations-to-reduce-x-to-zero.md)|review|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
 |1706|Where Will the Ball Fall|[hard/1706_where-will-the-ball-fall.md](./hard/1706_where-will-the-ball-fall.md)|hard|https://leetcode.com/problems/where-will-the-ball-fall|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
 |2062|Count Vowel Substrings of a String|[review/2062_count-vowel-substrings-of-a-string.md](./review/2062_count-vowel-substrings-of-a-string.md)|review|https://leetcode.com/problems/count-vowel-substrings-of-a-string|
