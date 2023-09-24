@@ -117,6 +117,7 @@
 |743|Network Delay Time|[confident/743_network-delay-time.md](./confident/743_network-delay-time.md)|confident|https://leetcode.com/problems/network-delay-time|
 |746|Min Cost Climbing Stairs|[review/746_min-cost-climbing-stairs.md](./review/746_min-cost-climbing-stairs.md)|review|https://leetcode.com/problems/min-cost-climbing-stairs|
 |763|Partition Labels|[confident/763_partition-labels.md](./confident/763_partition-labels.md)|confident|https://leetcode.com/problems/partition-labels|
+|799|Champagne Tower|[review/799_champagne-tower.md](./review/799_champagne-tower.md)|review|https://leetcode.com/problems/champagne-tower|
 |811|Subdomain Visit Count|[ratio/811_subdomain-visit-count.md](./ratio/811_subdomain-visit-count.md)|ratio|https://leetcode.com/problems/subdomain-visit-count|
 |846|Hand of Straights|[review/846_hand-of-straights.md](./review/846_hand-of-straights.md)|review|https://leetcode.com/problems/hand-of-straights|
 |853|Car Fleet|[review/853_car-fleet.md](./review/853_car-fleet.md)|review|https://leetcode.com/problems/car-fleet|
