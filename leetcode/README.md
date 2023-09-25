@@ -96,6 +96,7 @@
 |338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |347|Top K Frequent Elements|[hard/347_top-k-frequent-elements.md](./hard/347_top-k-frequent-elements.md)|hard|https://leetcode.com/problems/top-k-frequent-elements|
 |377|Combination Sum IV|[confident/377_combination-sum-iv.md](./confident/377_combination-sum-iv.md)|confident|https://leetcode.com/problems/combination-sum-iv|
+|389|Find the Difference|[confident/389_find-the-difference.md](./confident/389_find-the-difference.md)|confident|https://leetcode.com/problems/find-the-difference|
 |392|Is Subsequence|[review/392_is-subsequence.md](./review/392_is-subsequence.md)|review|https://leetcode.com/problems/is-subsequence|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|
