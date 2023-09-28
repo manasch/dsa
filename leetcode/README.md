@@ -100,6 +100,7 @@
 |392|Is Subsequence|[review/392_is-subsequence.md](./review/392_is-subsequence.md)|review|https://leetcode.com/problems/is-subsequence|
 |417|Pacific Atlantic Water Flow|[review/417_pacific-atlantic-water-flow.md](./review/417_pacific-atlantic-water-flow.md)|review|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |424|Longest Repeating Character Replacement|[hard/424_longest-repeating-character-replacement.md](./hard/424_longest-repeating-character-replacement.md)|hard|https://leetcode.com/problems/longest-repeating-character-replacement|
+|427|Construct Quad Tree|[review/427_construct-quad-tree.md](./review/427_construct-quad-tree.md)|review|https://leetcode.com/problems/construct-quad-tree|
 |433|Minimum Genetic Mutation|[hard/433_minimum-genetic-mutation.md](./hard/433_minimum-genetic-mutation.md)|hard|https://leetcode.com/problems/minimum-genetic-mutation|
 |435|Non-overlapping Intervals|[review/435_non-overlapping-intervals.md](./review/435_non-overlapping-intervals.md)|review|https://leetcode.com/problems/non-overlapping-intervals|
 |494|Target Sum|[review/494_target-sum.md](./review/494_target-sum.md)|review|https://leetcode.com/problems/target-sum|
@@ -122,6 +123,7 @@
 |811|Subdomain Visit Count|[ratio/811_subdomain-visit-count.md](./ratio/811_subdomain-visit-count.md)|ratio|https://leetcode.com/problems/subdomain-visit-count|
 |846|Hand of Straights|[review/846_hand-of-straights.md](./review/846_hand-of-straights.md)|review|https://leetcode.com/problems/hand-of-straights|
 |853|Car Fleet|[review/853_car-fleet.md](./review/853_car-fleet.md)|review|https://leetcode.com/problems/car-fleet|
+|905|Sort Array By Parity|[confident/905_sort-array-by-parity.md](./confident/905_sort-array-by-parity.md)|confident|https://leetcode.com/problems/sort-array-by-parity|
 |909|Snakes and Ladders|[review/909_snakes-and-ladders.md](./review/909_snakes-and-ladders.md)|review|https://leetcode.com/problems/snakes-and-ladders|
 |919|Meeting Rooms II|[hard/919_meeting-rooms-ii.md](./hard/919_meeting-rooms-ii.md)|hard|https://www.lintcode.com/problem/919|
 |920|Meeting Rooms|[confident/920_meeting-rooms.md](./confident/920_meeting-rooms.md)|confident|https://www.lintcode.com/problem/920|
