@@ -123,6 +123,7 @@
 |811|Subdomain Visit Count|[ratio/811_subdomain-visit-count.md](./ratio/811_subdomain-visit-count.md)|ratio|https://leetcode.com/problems/subdomain-visit-count|
 |846|Hand of Straights|[review/846_hand-of-straights.md](./review/846_hand-of-straights.md)|review|https://leetcode.com/problems/hand-of-straights|
 |853|Car Fleet|[review/853_car-fleet.md](./review/853_car-fleet.md)|review|https://leetcode.com/problems/car-fleet|
+|896|Monotonic Array|[confident/896_monotonic-array.md](./confident/896_monotonic-array.md)|confident|https://leetcode.com/problems/monotonic-array|
 |905|Sort Array By Parity|[confident/905_sort-array-by-parity.md](./confident/905_sort-array-by-parity.md)|confident|https://leetcode.com/problems/sort-array-by-parity|
 |909|Snakes and Ladders|[review/909_snakes-and-ladders.md](./review/909_snakes-and-ladders.md)|review|https://leetcode.com/problems/snakes-and-ladders|
 |919|Meeting Rooms II|[hard/919_meeting-rooms-ii.md](./hard/919_meeting-rooms-ii.md)|hard|https://www.lintcode.com/problem/919|
