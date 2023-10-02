@@ -107,6 +107,7 @@
 |518|Coin Change II|[review/518_coin-change-ii.md](./review/518_coin-change-ii.md)|review|https://leetcode.com/problems/coin-change-ii|
 |542|01 Matrix|[review/542_01-matrix.md](./review/542_01-matrix.md)|review|https://leetcode.com/problems/01-matrix|
 |543|Diameter of Binary Tree|[review/543_diameter-of-binary-tree.md](./review/543_diameter-of-binary-tree.md)|review|https://leetcode.com/problems/diameter-of-binary-tree|
+|557|Reverse Words in a String III|[confident/557_reverse-words-in-a-string-iii.md](./confident/557_reverse-words-in-a-string-iii.md)|confident|https://leetcode.com/problems/reverse-words-in-a-string-iii|
 |572|Subtree of Another Tree|[review/572_subtree-of-another-tree.md](./review/572_subtree-of-another-tree.md)|review|https://leetcode.com/problems/subtree-of-another-tree|
 |621|Task Scheduler|[hard/621_task-scheduler.md](./hard/621_task-scheduler.md)|hard|https://leetcode.com/problems/task-scheduler|
 |684|Redundant Connection|[hard/684_redundant-connection.md](./hard/684_redundant-connection.md)|hard|https://leetcode.com/problems/redundant-connection|
@@ -145,5 +146,6 @@
 |1658|Minimum Operations to Reduce X to Zero|[review/1658_minimum-operations-to-reduce-x-to-zero.md](./review/1658_minimum-operations-to-reduce-x-to-zero.md)|review|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
 |1706|Where Will the Ball Fall|[hard/1706_where-will-the-ball-fall.md](./hard/1706_where-will-the-ball-fall.md)|hard|https://leetcode.com/problems/where-will-the-ball-fall|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
+|2038|Remove Colored Pieces if Both Neighbors are the Same Color|[confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md](./confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md)|confident|https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color|
 |2062|Count Vowel Substrings of a String|[review/2062_count-vowel-substrings-of-a-string.md](./review/2062_count-vowel-substrings-of-a-string.md)|review|https://leetcode.com/problems/count-vowel-substrings-of-a-string|
 |2369|Check if There is a Valid Partition For The Array|[review/2369_check-if-there-is-a-valid-partition-for-the-array.md](./review/2369_check-if-there-is-a-valid-partition-for-the-array.md)|review|https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array|
