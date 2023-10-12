@@ -124,6 +124,7 @@
 |799|Champagne Tower|[review/799_champagne-tower.md](./review/799_champagne-tower.md)|review|https://leetcode.com/problems/champagne-tower|
 |811|Subdomain Visit Count|[ratio/811_subdomain-visit-count.md](./ratio/811_subdomain-visit-count.md)|ratio|https://leetcode.com/problems/subdomain-visit-count|
 |846|Hand of Straights|[review/846_hand-of-straights.md](./review/846_hand-of-straights.md)|review|https://leetcode.com/problems/hand-of-straights|
+|852|Peak Index in a Mountain Array|[confident/852_peak-index-in-a-mountain-array.md](./confident/852_peak-index-in-a-mountain-array.md)|confident|https://leetcode.com/problems/peak-index-in-a-mountain-array|
 |853|Car Fleet|[review/853_car-fleet.md](./review/853_car-fleet.md)|review|https://leetcode.com/problems/car-fleet|
 |896|Monotonic Array|[confident/896_monotonic-array.md](./confident/896_monotonic-array.md)|confident|https://leetcode.com/problems/monotonic-array|
 |905|Sort Array By Parity|[confident/905_sort-array-by-parity.md](./confident/905_sort-array-by-parity.md)|confident|https://leetcode.com/problems/sort-array-by-parity|
@@ -136,6 +137,7 @@
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
 |1048|Longest String Chain|[review/1048_longest-string-chain.md](./review/1048_longest-string-chain.md)|review|https://leetcode.com/problems/longest-string-chain|
 |1091|Shortest Path in Binary Matrix|[review/1091_shortest-path-in-binary-matrix.md](./review/1091_shortest-path-in-binary-matrix.md)|review|https://leetcode.com/problems/shortest-path-in-binary-matrix|
+|1095|Find in Mountain Array|[confident/1095_find-in-mountain-array.md](./confident/1095_find-in-mountain-array.md)|confident|https://leetcode.com/problems/find-in-mountain-array|
 |1143|Longest Common Subsequence|[confident/1143_longest-common-subsequence.md](./confident/1143_longest-common-subsequence.md)|confident|https://leetcode.com/problems/longest-common-subsequence|
 |1282|Group the People Given the Group Size They Belong To|[confident/1282_group-the-people-given-the-group-size-they-belong-to.md](./confident/1282_group-the-people-given-the-group-size-they-belong-to.md)|confident|https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to|
 |1337|The K Weakest Rows in a Matrix|[confident/1337_the-k-weakest-rows-in-a-matrix.md](./confident/1337_the-k-weakest-rows-in-a-matrix.md)|confident|https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix|
