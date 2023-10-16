@@ -53,6 +53,7 @@
 |102|Binary Tree Level Order Traversal|[confident/102_binary-tree-level-order-traversal.md](./confident/102_binary-tree-level-order-traversal.md)|confident|https://leetcode.com/problems/binary-tree-level-order-traversal|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|[review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md](./review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md)|review|https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal|
 |118|Pascal's Triangle|[confident/118_pascals-triangle.md](./confident/118_pascals-triangle.md)|confident|https://leetcode.com/problems/pascals-triangle|
+|119|Pascal's Triangle II|[confident/119_pascals-triangle-ii.md](./confident/119_pascals-triangle-ii.md)|confident|https://leetcode.com/problems/pascals-triangle-ii|
 |121|Best Time to Buy and Sell Stock|[confident/121_best-time-to-buy-and-sell-stock.md](./confident/121_best-time-to-buy-and-sell-stock.md)|confident|https://leetcode.com/problems/best-time-to-buy-and-sell-stock|
 |124|Binary Tree Maximum Path Sum|[hard/124_binary-tree-maximum-path-sum.md](./hard/124_binary-tree-maximum-path-sum.md)|hard|https://leetcode.com/problems/binary-tree-maximum-path-sum|
 |125|Valid Palindrome|[confident/125_valid-palindrome.md](./confident/125_valid-palindrome.md)|confident|https://leetcode.com/problems/valid-palindrome|
