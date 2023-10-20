@@ -1,4 +1,4 @@
-[[700155] - Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree1)
+[[700155] - Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1)
 
 ---
 

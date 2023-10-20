@@ -1,4 +1,4 @@
-[[706298] - Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces1)
+[[706298] - Number of Provinces](https://practice.geeksforgeeks.org/problems/number-of-provinces/1)
 
 ---
 
