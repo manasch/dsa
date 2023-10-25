@@ -54,6 +54,7 @@
 |105|Construct Binary Tree from Preorder and Inorder Traversal|[review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md](./review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md)|review|https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal|
 |118|Pascal's Triangle|[confident/118_pascals-triangle.md](./confident/118_pascals-triangle.md)|confident|https://leetcode.com/problems/pascals-triangle|
 |119|Pascal's Triangle II|[confident/119_pascals-triangle-ii.md](./confident/119_pascals-triangle-ii.md)|confident|https://leetcode.com/problems/pascals-triangle-ii|
+|120|Triangle|[review/120_triangle.md](./review/120_triangle.md)|review|https://leetcode.com/problems/triangle|
 |121|Best Time to Buy and Sell Stock|[confident/121_best-time-to-buy-and-sell-stock.md](./confident/121_best-time-to-buy-and-sell-stock.md)|confident|https://leetcode.com/problems/best-time-to-buy-and-sell-stock|
 |124|Binary Tree Maximum Path Sum|[hard/124_binary-tree-maximum-path-sum.md](./hard/124_binary-tree-maximum-path-sum.md)|hard|https://leetcode.com/problems/binary-tree-maximum-path-sum|
 |125|Valid Palindrome|[confident/125_valid-palindrome.md](./confident/125_valid-palindrome.md)|confident|https://leetcode.com/problems/valid-palindrome|
@@ -81,6 +82,7 @@
 |213|House Robber II|[review/213_house-robber-ii.md](./review/213_house-robber-ii.md)|review|https://leetcode.com/problems/house-robber-ii|
 |215|Kth Largest Element in an Array|[review/215_kth-largest-element-in-an-array.md](./review/215_kth-largest-element-in-an-array.md)|review|https://leetcode.com/problems/kth-largest-element-in-an-array|
 |217|Contains Duplicate|[confident/217_contains-duplicate.md](./confident/217_contains-duplicate.md)|confident|https://leetcode.com/problems/contains-duplicate|
+|221|Maximal Square|[review/221_maximal-square.md](./review/221_maximal-square.md)|review|https://leetcode.com/problems/maximal-square|
 |226|Invert Binary Tree|[confident/226_invert-binary-tree.md](./confident/226_invert-binary-tree.md)|confident|https://leetcode.com/problems/invert-binary-tree|
 |230|Kth Smallest Element in a BST|[confident/230_kth-smallest-element-in-a-bst.md](./confident/230_kth-smallest-element-in-a-bst.md)|confident|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
 |234|Palindrome Linked List|[confident/234_palindrome-linked-list.md](./confident/234_palindrome-linked-list.md)|confident|https://leetcode.com/problems/palindrome-linked-list|
@@ -123,6 +125,7 @@
 |743|Network Delay Time|[confident/743_network-delay-time.md](./confident/743_network-delay-time.md)|confident|https://leetcode.com/problems/network-delay-time|
 |746|Min Cost Climbing Stairs|[review/746_min-cost-climbing-stairs.md](./review/746_min-cost-climbing-stairs.md)|review|https://leetcode.com/problems/min-cost-climbing-stairs|
 |763|Partition Labels|[confident/763_partition-labels.md](./confident/763_partition-labels.md)|confident|https://leetcode.com/problems/partition-labels|
+|779|K-th Symbol in Grammar|[review/779_k-th-symbol-in-grammar.md](./review/779_k-th-symbol-in-grammar.md)|review|https://leetcode.com/problems/k-th-symbol-in-grammar|
 |799|Champagne Tower|[review/799_champagne-tower.md](./review/799_champagne-tower.md)|review|https://leetcode.com/problems/champagne-tower|
 |811|Subdomain Visit Count|[ratio/811_subdomain-visit-count.md](./ratio/811_subdomain-visit-count.md)|ratio|https://leetcode.com/problems/subdomain-visit-count|
 |844|Backspace String Compare|[review/844_backspace-string-compare.md](./review/844_backspace-string-compare.md)|review|https://leetcode.com/problems/backspace-string-compare|
@@ -160,5 +163,5 @@
 |2062|Count Vowel Substrings of a String|[review/2062_count-vowel-substrings-of-a-string.md](./review/2062_count-vowel-substrings-of-a-string.md)|review|https://leetcode.com/problems/count-vowel-substrings-of-a-string|
 |2251|Number of Flowers in Full Bloom|[review/2251_number-of-flowers-in-full-bloom.md](./review/2251_number-of-flowers-in-full-bloom.md)|review|https://leetcode.com/problems/number-of-flowers-in-full-bloom|
 |2369|Check if There is a Valid Partition For The Array|[review/2369_check-if-there-is-a-valid-partition-for-the-array.md](./review/2369_check-if-there-is-a-valid-partition-for-the-array.md)|review|https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array|
-|700155|Mirror Tree|[confident/700155_mirror-tree.md](./confident/700155_mirror-tree.md)|confident|https://practice.geeksforgeeks.org/problems/mirror-tree1|
-|706298|Number of Provinces|[confident/706298_number-of-provinces.md](./confident/706298_number-of-provinces.md)|confident|https://practice.geeksforgeeks.org/problems/number-of-provinces1|
+|700155|Mirror Tree|[confident/700155_mirror-tree.md](./confident/700155_mirror-tree.md)|confident|https://practice.geeksforgeeks.org/problems/mirror-tree/1|
+|706298|Number of Provinces|[confident/706298_number-of-provinces.md](./confident/706298_number-of-provinces.md)|confident|https://practice.geeksforgeeks.org/problems/number-of-provinces/1|
