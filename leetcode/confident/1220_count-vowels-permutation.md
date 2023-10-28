@@ -4,6 +4,7 @@
 
 - Hard
 - [Submission](https://leetcode.com/problems/count-vowels-permutation/submissions/1085843305/)
+- [Submission](https://leetcode.com/problems/count-vowels-permutation/submissions/1085848382/)
 - dynamic-programming
 
 ---
@@ -99,6 +100,33 @@ public:
 };
 ```
 
+```cpp
+class Solution {
+public:
+    int countVowelPermutation(int n) {
+        const int mod = 1e9 + 7;
+
+        long long a = 1, e = 1, i = 1, o = 1, u = 1;
+
+        for (int k = 1; k < n; ++k) {
+            long long a_next = e;
+            long long e_next = (a + i) % mod;
+            long long i_next = (a + e + o + u) % mod;
+            long long o_next = (i + u) % mod;
+            long long u_next = a;
+
+            a = a_next;
+            e = e_next;
+            i = i_next;
+            o = o_next;
+            u = u_next;
+        }
+
+        return (a + e + i + o + u) % mod;
+    }
+};
+```
+
 ---
 
 ## Notes
@@ -106,3 +134,7 @@ public:
 - Was able to do this on my own \o/.
 - Basically, the repeated subproblem would be for a particular level and the character at that level.
 - Apart from that, it's a normal top-down dfs problem. Most likely a better solution exists.
+
+
+- Ofcourse, the actual optimized solution is so simple, well this is a bottom-up kind of approach maybe?
+- Just simultaniously calculate starting from each vowel, and add the next vowel value to it.
