@@ -151,6 +151,7 @@
 |1337|The K Weakest Rows in a Matrix|[confident/1337_the-k-weakest-rows-in-a-matrix.md](./confident/1337_the-k-weakest-rows-in-a-matrix.md)|confident|https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix|
 |1361|Validate Binary Tree Nodes|[confident/1361_validate-binary-tree-nodes.md](./confident/1361_validate-binary-tree-nodes.md)|confident|https://leetcode.com/problems/validate-binary-tree-nodes|
 |1365|How Many Numbers Are Smaller Than the Current Number|[review/1365_how-many-numbers-are-smaller-than-the-current-number.md](./review/1365_how-many-numbers-are-smaller-than-the-current-number.md)|review|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
+|1441|Build an Array With Stack Operations|[confident/1441_build-an-array-with-stack-operations.md](./confident/1441_build-an-array-with-stack-operations.md)|confident|https://leetcode.com/problems/build-an-array-with-stack-operations|
 |1448|Count Good Nodes in Binary Tree|[confident/1448_count-good-nodes-in-binary-tree.md](./confident/1448_count-good-nodes-in-binary-tree.md)|confident|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
 |1512|Number of Good Pairs|[confident/1512_number-of-good-pairs.md](./confident/1512_number-of-good-pairs.md)|confident|https://leetcode.com/problems/number-of-good-pairs|
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
