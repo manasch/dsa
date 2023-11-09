@@ -87,6 +87,7 @@
 |230|Kth Smallest Element in a BST|[confident/230_kth-smallest-element-in-a-bst.md](./confident/230_kth-smallest-element-in-a-bst.md)|confident|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
 |234|Palindrome Linked List|[confident/234_palindrome-linked-list.md](./confident/234_palindrome-linked-list.md)|confident|https://leetcode.com/problems/palindrome-linked-list|
 |235|Lowest Common Ancestor of a Binary Search Tree|[confident/235_lowest-common-ancestor-of-a-binary-search-tree.md](./confident/235_lowest-common-ancestor-of-a-binary-search-tree.md)|confident|https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree|
+|236|Lowest Common Ancestor of a Binary Tree|[confident/236_lowest-common-ancestor-of-a-binary-tree.md](./confident/236_lowest-common-ancestor-of-a-binary-tree.md)|confident|https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree|
 |238|Product of Array Except Self|[hard/238_product-of-array-except-self.md](./hard/238_product-of-array-except-self.md)|hard|https://leetcode.com/problems/product-of-array-except-self|
 |239|Sliding Window Maximum|[review/239_sliding-window-maximum.md](./review/239_sliding-window-maximum.md)|review|https://leetcode.com/problems/sliding-window-maximum|
 |242|Valid Anagram|[confident/242_valid-anagram.md](./confident/242_valid-anagram.md)|confident|https://leetcode.com/problems/valid-anagram|
