@@ -52,6 +52,7 @@
 |100|Same Tree|[review/100_same-tree.md](./review/100_same-tree.md)|review|https://leetcode.com/problems/same-tree|
 |102|Binary Tree Level Order Traversal|[confident/102_binary-tree-level-order-traversal.md](./confident/102_binary-tree-level-order-traversal.md)|confident|https://leetcode.com/problems/binary-tree-level-order-traversal|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|[review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md](./review/105_construct-binary-tree-from-preorder-and-inorder-traversal.md)|review|https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal|
+|114|Flatten Binary Tree to Linked List|[review/114_flatten-binary-tree-to-linked-list.md](./review/114_flatten-binary-tree-to-linked-list.md)|review|https://leetcode.com/problems/flatten-binary-tree-to-linked-list|
 |118|Pascal's Triangle|[confident/118_pascals-triangle.md](./confident/118_pascals-triangle.md)|confident|https://leetcode.com/problems/pascals-triangle|
 |119|Pascal's Triangle II|[confident/119_pascals-triangle-ii.md](./confident/119_pascals-triangle-ii.md)|confident|https://leetcode.com/problems/pascals-triangle-ii|
 |120|Triangle|[review/120_triangle.md](./review/120_triangle.md)|review|https://leetcode.com/problems/triangle|
