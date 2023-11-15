@@ -6,3 +6,7 @@ __pycache__
 *.exe
 *.o
 *.out
+
+# Modified time
+last_modified
+ignore_folders
