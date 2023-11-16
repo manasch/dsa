@@ -183,6 +183,7 @@
 |1658|Minimum Operations to Reduce X to Zero|[review/1658_minimum-operations-to-reduce-x-to-zero.md](./review/1658_minimum-operations-to-reduce-x-to-zero.md)|review|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
 |1846|Maximum Element After Decreasing and Rearranging|[review/1846_maximum-element-after-decreasing-and-rearranging.md](./review/1846_maximum-element-after-decreasing-and-rearranging.md)|review|https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging|
 |1930|Unique Length-3 Palindromic Subsequences|[review/1930_unique-length-3-palindromic-subsequences.md](./review/1930_unique-length-3-palindromic-subsequences.md)|review|https://leetcode.com/problems/unique-length-3-palindromic-subsequences|
+|1980|Find Unique Binary String|[review/1980_find-unique-binary-string.md](./review/1980_find-unique-binary-string.md)|review|https://leetcode.com/problems/find-unique-binary-string|
 |2050|Parallel Courses III|[review/2050_parallel-courses-iii.md](./review/2050_parallel-courses-iii.md)|review|https://leetcode.com/problems/parallel-courses-iii|
 |2062|Count Vowel Substrings of a String|[review/2062_count-vowel-substrings-of-a-string.md](./review/2062_count-vowel-substrings-of-a-string.md)|review|https://leetcode.com/problems/count-vowel-substrings-of-a-string|
 |2251|Number of Flowers in Full Bloom|[review/2251_number-of-flowers-in-full-bloom.md](./review/2251_number-of-flowers-in-full-bloom.md)|review|https://leetcode.com/problems/number-of-flowers-in-full-bloom|
