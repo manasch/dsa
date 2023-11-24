@@ -78,6 +78,7 @@
 |1441|Build an Array With Stack Operations|[confident/1441_build-an-array-with-stack-operations.md](./confident/1441_build-an-array-with-stack-operations.md)|confident|https://leetcode.com/problems/build-an-array-with-stack-operations|
 |1448|Count Good Nodes in Binary Tree|[confident/1448_count-good-nodes-in-binary-tree.md](./confident/1448_count-good-nodes-in-binary-tree.md)|confident|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
 |1512|Number of Good Pairs|[confident/1512_number-of-good-pairs.md](./confident/1512_number-of-good-pairs.md)|confident|https://leetcode.com/problems/number-of-good-pairs|
+|1561|Maximum Number of Coins You Can Get|[confident/1561_maximum-number-of-coins-you-can-get.md](./confident/1561_maximum-number-of-coins-you-can-get.md)|confident|https://leetcode.com/problems/maximum-number-of-coins-you-can-get|
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
 |1743|Restore the Array From Adjacent Pairs|[confident/1743_restore-the-array-from-adjacent-pairs.md](./confident/1743_restore-the-array-from-adjacent-pairs.md)|confident|https://leetcode.com/problems/restore-the-array-from-adjacent-pairs|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
