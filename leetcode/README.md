@@ -54,6 +54,7 @@
 |338|Counting Bits|[confident/338_counting-bits.md](./confident/338_counting-bits.md)|confident|https://leetcode.com/problems/counting-bits|
 |377|Combination Sum IV|[confident/377_combination-sum-iv.md](./confident/377_combination-sum-iv.md)|confident|https://leetcode.com/problems/combination-sum-iv|
 |389|Find the Difference|[confident/389_find-the-difference.md](./confident/389_find-the-difference.md)|confident|https://leetcode.com/problems/find-the-difference|
+|399|Evaluate Division|[confident/399_evaluate-division.md](./confident/399_evaluate-division.md)|confident|https://leetcode.com/problems/evaluate-division|
 |557|Reverse Words in a String III|[confident/557_reverse-words-in-a-string-iii.md](./confident/557_reverse-words-in-a-string-iii.md)|confident|https://leetcode.com/problems/reverse-words-in-a-string-iii|
 |695|Max Area of Island|[confident/695_max-area-of-island.md](./confident/695_max-area-of-island.md)|confident|https://leetcode.com/problems/max-area-of-island|
 |706|Design HashMap|[confident/706_design-hashmap.md](./confident/706_design-hashmap.md)|confident|https://leetcode.com/problems/design-hashmap|
