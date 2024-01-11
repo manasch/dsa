@@ -4,6 +4,7 @@
 
 - Medium
 - [Submission](https://leetcode.com/problems/target-sum/submissions/1036723963/)
+- [Submission](https://leetcode.com/problems/target-sum/submissions/1143265427/)
 - array, dynamic-programming, backtracking
 
 ---
@@ -82,9 +83,59 @@ public:
 };
 ```
 
+```cpp
+struct Hash {
+    template <class T1, class T2>
+    size_t operator() (const pair<T1, T2>& p) const {
+        return hash<T1>()(p.first) ^ (hash<T2>()(p.second) << 16);
+    }
+};
+
+class Solution {
+private:
+    int dfs(vector<int>& nums, int target, int idx, unordered_map<pair<int, int>, int, Hash>& dp) {
+        if (idx == 0) {
+            if (target == 0 && nums[idx] == 0) {
+                return 2;
+            }
+            if (target == 0 || target == nums[idx]) {
+                return 1;
+            }
+            return 0;
+        }
+        if (dp.find({idx, target}) != dp.end()) {
+            return dp[{idx, target}];
+        }
+        int notTake = dfs(nums, target, idx - 1, dp);
+        int take = 0;
+        if (target >= nums[idx]) {
+            take = dfs(nums, target - nums[idx], idx - 1, dp);
+        }
+        return dp[{idx, target}] = take + notTake;
+    }
+public:
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        if ((totalSum - target) % 2 || (totalSum - target) < 0) {
+            return 0;
+        }
+        int n = nums.size();
+        int newTarget = (totalSum - target) / 2;
+        unordered_map<pair<int, int>, int, Hash> dp;
+        return dfs(nums, newTarget, n - 1, dp);
+    }
+};
+```
+
 ---
 
 ## Notes
 
 - Normal bruteforce worked which is the regular backtracking solution.
 - Caching it decreased the time, but not by much. Can write it in bottom-up DP.
+
+- Covert this problem from figuring out which takes + and which takes - to finding out two subsets S1 and S2 such that S1 - S2 = target.
+- From the given array, the total sum can be figured out. This total sum is just the sum of the two subsets S1 and S2.
+- Hence, `total = S1 + S2`, `S1 - S2 = target`, just have to find a subset sum of `S2 = (total - target) / 2` from the array.
+- There are some exceptions where the `total - target` should be positive and an even number.
+- This just reduces to finding a subset sum in an array.
