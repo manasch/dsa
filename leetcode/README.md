@@ -89,6 +89,8 @@
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md](./confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md)|confident|https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color|
 |2265|Count Nodes Equal to Average of Subtree|[confident/2265_count-nodes-equal-to-average-of-subtree.md](./confident/2265_count-nodes-equal-to-average-of-subtree.md)|confident|https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree|
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
+|3019|Number of Changing Keys|[confident/3019_number-of-changing-keys.md](./confident/3019_number-of-changing-keys.md)|confident|https://leetcode.com/problems/number-of-changing-keys|
+|3021|Alice and Bob Playing Flower Game|[confident/3021_alice-and-bob-playing-flower-game.md](./confident/3021_alice-and-bob-playing-flower-game.md)|confident|https://leetcode.com/problems/alice-and-bob-playing-flower-game|
 
 ## Hard
 
