@@ -19,39 +19,37 @@ class Solution:
 
     def solveOne(self):
         res = 1
-        for idx, t in enumerate(self.times):
-            l, r = 0, t
-            dist = self.dists[idx]
-            while True:
-                if dist < l * (t - l):
-                    break
-                l += 1
-            while True:
-                if dist < r * (t - r):
-                    break
-                r -= 1
-            res *= (r - l + 1)
+        for time, dist in zip(self.times, self.dists):
+            beg, end = 1, time // 2
+            
+            while beg <= end:
+                hold = beg + ((end - beg) >> 1)
+                if hold * (time - hold) > dist:
+                    end = hold - 1
+                else:
+                    beg = hold + 1
+
+            window = 2 * ((time // 2) - beg + 1)
+            window += 0 if time % 2 == 1 else -1
+            res *= window
         self.partOne = res
 
     def solveTwo(self):
-        time = ""
-        dist = ""
-        for idx in range(len(self.times)):
-            time += str(self.times[idx])
-            dist += str(self.dists[idx])
-        
-        time = int(time)
-        dist = int(dist)
-        l, r = 0, time
-        while True:
-            if dist < l * (time - l):
-                break
-            l += 1
-        while True:
-            if dist < r * (time - r):
-                break
-            r -= 1
-        res = (r - l + 1)
+        res = 1
+        time = int("".join(list(map(str, self.times))))
+        dist = int("".join(list(map(str, self.dists))))
+
+        beg, end = 1, time // 2
+
+        while beg <= end:
+            hold = beg + ((end - beg) >> 1)
+            if hold * (time - hold) > dist:
+                end = hold - 1
+            else:
+                beg = hold + 1
+
+        res = (time // 2 - beg + 1) * 2
+        res += 0 if time % 2 else -1
         self.partTwo = res
 
     def solve(self):
