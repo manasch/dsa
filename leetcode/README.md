@@ -91,6 +91,8 @@
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
 |3019|Number of Changing Keys|[confident/3019_number-of-changing-keys.md](./confident/3019_number-of-changing-keys.md)|confident|https://leetcode.com/problems/number-of-changing-keys|
 |3021|Alice and Bob Playing Flower Game|[confident/3021_alice-and-bob-playing-flower-game.md](./confident/3021_alice-and-bob-playing-flower-game.md)|confident|https://leetcode.com/problems/alice-and-bob-playing-flower-game|
+|3038|Maximum Number of Operations With the Same Score I|[confident/3038_maximum-number-of-operations-with-the-same-score-i.md](./confident/3038_maximum-number-of-operations-with-the-same-score-i.md)|confident|https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i|
+|3039|Apply Operations to Make String Empty|[confident/3039_apply-operations-to-make-string-empty.md](./confident/3039_apply-operations-to-make-string-empty.md)|confident|https://leetcode.com/problems/apply-operations-to-make-string-empty|
 
 ## Hard
 
@@ -154,6 +156,7 @@
 |190|Reverse Bits|[review/190_reverse-bits.md](./review/190_reverse-bits.md)|review|https://leetcode.com/problems/reverse-bits|
 |198|House Robber|[review/198_house-robber.md](./review/198_house-robber.md)|review|https://leetcode.com/problems/house-robber|
 |199|Binary Tree Right Side View|[review/199_binary-tree-right-side-view.md](./review/199_binary-tree-right-side-view.md)|review|https://leetcode.com/problems/binary-tree-right-side-view|
+|201|Bitwise AND of Numbers Range|[review/201_bitwise-and-of-numbers-range.md](./review/201_bitwise-and-of-numbers-range.md)|review|https://leetcode.com/problems/bitwise-and-of-numbers-range|
 |207|Course Schedule|[review/207_course-schedule.md](./review/207_course-schedule.md)|review|https://leetcode.com/problems/course-schedule|
 |213|House Robber II|[review/213_house-robber-ii.md](./review/213_house-robber-ii.md)|review|https://leetcode.com/problems/house-robber-ii|
 |215|Kth Largest Element in an Array|[review/215_kth-largest-element-in-an-array.md](./review/215_kth-largest-element-in-an-array.md)|review|https://leetcode.com/problems/kth-largest-element-in-an-array|
@@ -199,3 +202,4 @@
 |2251|Number of Flowers in Full Bloom|[review/2251_number-of-flowers-in-full-bloom.md](./review/2251_number-of-flowers-in-full-bloom.md)|review|https://leetcode.com/problems/number-of-flowers-in-full-bloom|
 |2369|Check if There is a Valid Partition For The Array|[review/2369_check-if-there-is-a-valid-partition-for-the-array.md](./review/2369_check-if-there-is-a-valid-partition-for-the-array.md)|review|https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array|
 |2610|Convert an Array Into a 2D Array With Conditions|[review/2610_convert-an-array-into-a-2d-array-with-conditions.md](./review/2610_convert-an-array-into-a-2d-array-with-conditions.md)|review|https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions|
+|3040|Maximum Number of Operations With the Same Score II|[review/3040_maximum-number-of-operations-with-the-same-score-ii.md](./review/3040_maximum-number-of-operations-with-the-same-score-ii.md)|review|https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii|
