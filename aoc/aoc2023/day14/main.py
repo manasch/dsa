@@ -14,77 +14,45 @@ class Solution:
             self.partTwo = None
 
     def parse(self):
-        self.input = [[ch for ch in row] for row in self.input]
+        pass
 
     def solveOne(self):
-        dish = [[ch for ch in row] for row in self.input]
+        grid = tuple(self.input)
         
-        for j in range(len(dish[0])):
-            count = 0
-            for i in range(len(dish) - 1, -1, -1):
-                if dish[i][j] == 'O':
-                    count += 1
-                    dish[i][j] = '.'
-                elif dish[i][j] == '#':
-                    for k in range(count):
-                        dish[i + k + 1][j] = 'O'
-                    count = 0
-            if count > 0:
-                for k in range(count):
-                    dish[i + k][j] = 'O'
+        grid = tuple(map("".join, zip(*grid)))        
+        grid = tuple("#".join(["".join(sorted(x, reverse=True)) for x in row.split('#')]) for row in grid)
+        grid = tuple(map("".join, zip(*grid)))
 
         res = 0
-        for r, row in enumerate(dish):
-            res += (len(dish) - r) * row.count('O')
+        for r, row in enumerate(grid):
+            res += (len(grid) - r) * row.count('O')
         self.partOne = res
-        
-        # r1, r2 = [], []
-        # for row, row2 in zip(self.input, dish):
-        #     r1.append("".join(row))
-        #     r2.append("".join(row2))
-        # # print("\n".join(r1))
-        # print()
-        # print("\n".join(r2))      
 
     def solveTwo(self):
-        dish = [[ch for ch in row] for row in self.input]
+        grid = tuple(self.input)
 
         def cycle():
-            nonlocal dish
+            nonlocal grid
             for _ in range(4):
-                for j in range(len(dish[0])):
-                    count = 0
-                    for i in range(len(dish) - 1, -1 , -1):
-                        if dish[i][j] == 'O':
-                            count += 1
-                            dish[i][j] = '.'
-                        elif dish[i][j] == '#':
-                            for k in range(count):
-                                dish[i + k + 1][j] = 'O'
-                            count = 0
-                    if count > 0:
-                        for k in range(count):
-                            dish[i + k][j] = 'O'
-                dish = [list(x) for x in zip(*reversed(dish))]
+                grid = tuple(map("".join, zip(*grid)))        
+                grid = tuple("#".join(["".join(sorted(x, reverse=True)) for x in row.split('#')]) for row in grid)
+                grid = tuple(row[::-1] for row in grid)
         
-        temp = tuple(tuple(row) for row in dish)
-        gridSet = {temp}
-        gridArray = [temp]
+        gridSet = {grid}
+        gridArray = [grid]
         itr = 0
 
         while True:
             itr += 1
             cycle()
-            temp = tuple(tuple(row) for row in dish)
-            if temp in gridSet:
+            if grid in gridSet:
                 break
-            gridSet.add(temp)
-            gridArray.append(temp)
+            gridSet.add(grid)
+            gridArray.append(grid)
         
-        first = gridArray.index(temp)
-
-        finalGridIdx = (1000000000 - first) % (itr - first) + first
-        finalGrid = gridArray[finalGridIdx]
+        start = gridArray.index(grid)
+        idx = (1000000000 - start) % (itr - start) + start
+        finalGrid = gridArray[idx]
 
         res = 0
         for r, row in enumerate(finalGrid):
