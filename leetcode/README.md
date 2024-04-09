@@ -66,6 +66,7 @@
 |896|Monotonic Array|[confident/896_monotonic-array.md](./confident/896_monotonic-array.md)|confident|https://leetcode.com/problems/monotonic-array|
 |905|Sort Array By Parity|[confident/905_sort-array-by-parity.md](./confident/905_sort-array-by-parity.md)|confident|https://leetcode.com/problems/sort-array-by-parity|
 |929|Unique Email Addresses|[confident/929_unique-email-addresses.md](./confident/929_unique-email-addresses.md)|confident|https://leetcode.com/problems/unique-email-addresses|
+|948|Bag of Tokens|[confident/948_bag-of-tokens.md](./confident/948_bag-of-tokens.md)|confident|https://leetcode.com/problems/bag-of-tokens|
 |973|K Closest Points to Origin|[confident/973_k-closest-points-to-origin.md](./confident/973_k-closest-points-to-origin.md)|confident|https://leetcode.com/problems/k-closest-points-to-origin|
 |994|Rotting Oranges|[confident/994_rotting-oranges.md](./confident/994_rotting-oranges.md)|confident|https://leetcode.com/problems/rotting-oranges|
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
@@ -81,12 +82,15 @@
 |1512|Number of Good Pairs|[confident/1512_number-of-good-pairs.md](./confident/1512_number-of-good-pairs.md)|confident|https://leetcode.com/problems/number-of-good-pairs|
 |1561|Maximum Number of Coins You Can Get|[confident/1561_maximum-number-of-coins-you-can-get.md](./confident/1561_maximum-number-of-coins-you-can-get.md)|confident|https://leetcode.com/problems/maximum-number-of-coins-you-can-get|
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
+|1609|Even Odd Tree|[confident/1609_even-odd-tree.md](./confident/1609_even-odd-tree.md)|confident|https://leetcode.com/problems/even-odd-tree|
 |1743|Restore the Array From Adjacent Pairs|[confident/1743_restore-the-array-from-adjacent-pairs.md](./confident/1743_restore-the-array-from-adjacent-pairs.md)|confident|https://leetcode.com/problems/restore-the-array-from-adjacent-pairs|
+|1750|Minimum Length of String After Deleting Similar Ends|[confident/1750_minimum-length-of-string-after-deleting-similar-ends.md](./confident/1750_minimum-length-of-string-after-deleting-similar-ends.md)|confident|https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
 |1877|Minimize Maximum Pair Sum in Array|[confident/1877_minimize-maximum-pair-sum-in-array.md](./confident/1877_minimize-maximum-pair-sum-in-array.md)|confident|https://leetcode.com/problems/minimize-maximum-pair-sum-in-array|
 |1887|Reduction Operations to Make the Array Elements Equal|[confident/1887_reduction-operations-to-make-the-array-elements-equal.md](./confident/1887_reduction-operations-to-make-the-array-elements-equal.md)|confident|https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal|
 |1921|Eliminate Maximum Number of Monsters|[confident/1921_eliminate-maximum-number-of-monsters.md](./confident/1921_eliminate-maximum-number-of-monsters.md)|confident|https://leetcode.com/problems/eliminate-maximum-number-of-monsters|
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md](./confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md)|confident|https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color|
+|2073|Time Needed to Buy Tickets|[confident/2073_time-needed-to-buy-tickets.md](./confident/2073_time-needed-to-buy-tickets.md)|confident|https://leetcode.com/problems/time-needed-to-buy-tickets|
 |2265|Count Nodes Equal to Average of Subtree|[confident/2265_count-nodes-equal-to-average-of-subtree.md](./confident/2265_count-nodes-equal-to-average-of-subtree.md)|confident|https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree|
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
 |3019|Number of Changing Keys|[confident/3019_number-of-changing-keys.md](./confident/3019_number-of-changing-keys.md)|confident|https://leetcode.com/problems/number-of-changing-keys|
