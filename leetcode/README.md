@@ -68,6 +68,7 @@
 |929|Unique Email Addresses|[confident/929_unique-email-addresses.md](./confident/929_unique-email-addresses.md)|confident|https://leetcode.com/problems/unique-email-addresses|
 |948|Bag of Tokens|[confident/948_bag-of-tokens.md](./confident/948_bag-of-tokens.md)|confident|https://leetcode.com/problems/bag-of-tokens|
 |973|K Closest Points to Origin|[confident/973_k-closest-points-to-origin.md](./confident/973_k-closest-points-to-origin.md)|confident|https://leetcode.com/problems/k-closest-points-to-origin|
+|988|Smallest String Starting From Leaf|[confident/988_smallest-string-starting-from-leaf.md](./confident/988_smallest-string-starting-from-leaf.md)|confident|https://leetcode.com/problems/smallest-string-starting-from-leaf|
 |994|Rotting Oranges|[confident/994_rotting-oranges.md](./confident/994_rotting-oranges.md)|confident|https://leetcode.com/problems/rotting-oranges|
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
 |1095|Find in Mountain Array|[confident/1095_find-in-mountain-array.md](./confident/1095_find-in-mountain-array.md)|confident|https://leetcode.com/problems/find-in-mountain-array|
