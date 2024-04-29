@@ -24,17 +24,18 @@ class Parser:
         for item in directory.iterdir():
             if item.is_dir():
                 for md in item.iterdir():
-                    with open(md) as fp:
-                        line = fp.readline().strip()
-                    
-                    matched = pattern.search(line)
-                    problems[f"{item.name}"].append([
-                        int(matched.group(1)),
-                        matched.group(2),
-                        md.relative_to(directory).as_posix(),
-                        item.name,
-                        matched.group(3)
-                    ])
+                    if (md.is_file()):
+                        with open(md) as fp:
+                            line = fp.readline().strip()
+                        
+                        matched = pattern.search(line)
+                        problems[f"{item.name}"].append([
+                            int(matched.group(1)),
+                            matched.group(2),
+                            md.relative_to(directory).as_posix(),
+                            item.name,
+                            matched.group(3)
+                        ])
         
         return problems
     
