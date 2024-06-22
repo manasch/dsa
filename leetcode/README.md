@@ -99,6 +99,9 @@
 |3021|Alice and Bob Playing Flower Game|[confident/3021_alice-and-bob-playing-flower-game.md](./confident/3021_alice-and-bob-playing-flower-game.md)|confident|https://leetcode.com/problems/alice-and-bob-playing-flower-game|
 |3038|Maximum Number of Operations With the Same Score I|[confident/3038_maximum-number-of-operations-with-the-same-score-i.md](./confident/3038_maximum-number-of-operations-with-the-same-score-i.md)|confident|https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i|
 |3039|Apply Operations to Make String Empty|[confident/3039_apply-operations-to-make-string-empty.md](./confident/3039_apply-operations-to-make-string-empty.md)|confident|https://leetcode.com/problems/apply-operations-to-make-string-empty|
+|3190|Find Minimum Operations to Make All Elements Divisible by Three|[confident/3190_find-minimum-operations-to-make-all-elements-divisible-by-three.md](./confident/3190_find-minimum-operations-to-make-all-elements-divisible-by-three.md)|confident|https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three|
+|3191|Minimum Operations to Make Binary Array Elements Equal to One I|[confident/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.md](./confident/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.md)|confident|https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i|
+|3192|Minimum Operations to Make Binary Array Elements Equal to One II|[confident/3192_minimum-operations-to-make-binary-array-elements-equal-to-one-ii.md](./confident/3192_minimum-operations-to-make-binary-array-elements-equal-to-one-ii.md)|confident|https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii|
 
 ## Hard
 
