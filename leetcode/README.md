@@ -72,6 +72,7 @@
 |994|Rotting Oranges|[confident/994_rotting-oranges.md](./confident/994_rotting-oranges.md)|confident|https://leetcode.com/problems/rotting-oranges|
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
 |1095|Find in Mountain Array|[confident/1095_find-in-mountain-array.md](./confident/1095_find-in-mountain-array.md)|confident|https://leetcode.com/problems/find-in-mountain-array|
+|1110|Delete Nodes And Return Forest|[confident/1110_delete-nodes-and-return-forest.md](./confident/1110_delete-nodes-and-return-forest.md)|confident|https://leetcode.com/problems/delete-nodes-and-return-forest|
 |1143|Longest Common Subsequence|[confident/1143_longest-common-subsequence.md](./confident/1143_longest-common-subsequence.md)|confident|https://leetcode.com/problems/longest-common-subsequence|
 |1220|Count Vowels Permutation|[confident/1220_count-vowels-permutation.md](./confident/1220_count-vowels-permutation.md)|confident|https://leetcode.com/problems/count-vowels-permutation|
 |1269|Number of Ways to Stay in the Same Place After Some Steps|[confident/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps.md](./confident/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps.md)|confident|https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps|
