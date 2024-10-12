@@ -126,6 +126,7 @@
 |621|Task Scheduler|[hard/621_task-scheduler.md](./hard/621_task-scheduler.md)|hard|https://leetcode.com/problems/task-scheduler|
 |684|Redundant Connection|[hard/684_redundant-connection.md](./hard/684_redundant-connection.md)|hard|https://leetcode.com/problems/redundant-connection|
 |1706|Where Will the Ball Fall|[hard/1706_where-will-the-ball-fall.md](./hard/1706_where-will-the-ball-fall.md)|hard|https://leetcode.com/problems/where-will-the-ball-fall|
+|2406|Divide Intervals Into Minimum Number of Groups|[hard/2406_divide-intervals-into-minimum-number-of-groups.md](./hard/2406_divide-intervals-into-minimum-number-of-groups.md)|hard|https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups|
 
 ## Ratio
 
