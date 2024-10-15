@@ -97,6 +97,7 @@
 |2265|Count Nodes Equal to Average of Subtree|[confident/2265_count-nodes-equal-to-average-of-subtree.md](./confident/2265_count-nodes-equal-to-average-of-subtree.md)|confident|https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree|
 |2530|Maximal Score After Applying K Operations|[confident/2530_maximal-score-after-applying-k-operations.md](./confident/2530_maximal-score-after-applying-k-operations.md)|confident|https://leetcode.com/problems/maximal-score-after-applying-k-operations|
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
+|2938|Separate Black and White Balls|[confident/2938_separate-black-and-white-balls.md](./confident/2938_separate-black-and-white-balls.md)|confident|https://leetcode.com/problems/separate-black-and-white-balls|
 |2976|Minimum Cost to Convert String I|[confident/2976_minimum-cost-to-convert-string-i.md](./confident/2976_minimum-cost-to-convert-string-i.md)|confident|https://leetcode.com/problems/minimum-cost-to-convert-string-i|
 |3019|Number of Changing Keys|[confident/3019_number-of-changing-keys.md](./confident/3019_number-of-changing-keys.md)|confident|https://leetcode.com/problems/number-of-changing-keys|
 |3021|Alice and Bob Playing Flower Game|[confident/3021_alice-and-bob-playing-flower-game.md](./confident/3021_alice-and-bob-playing-flower-game.md)|confident|https://leetcode.com/problems/alice-and-bob-playing-flower-game|
