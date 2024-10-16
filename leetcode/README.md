@@ -80,6 +80,7 @@
 |1325|Delete Leaves With a Given Value|[confident/1325_delete-leaves-with-a-given-value.md](./confident/1325_delete-leaves-with-a-given-value.md)|confident|https://leetcode.com/problems/delete-leaves-with-a-given-value|
 |1337|The K Weakest Rows in a Matrix|[confident/1337_the-k-weakest-rows-in-a-matrix.md](./confident/1337_the-k-weakest-rows-in-a-matrix.md)|confident|https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix|
 |1361|Validate Binary Tree Nodes|[confident/1361_validate-binary-tree-nodes.md](./confident/1361_validate-binary-tree-nodes.md)|confident|https://leetcode.com/problems/validate-binary-tree-nodes|
+|1405|Longest Happy String|[confident/1405_longest-happy-string.md](./confident/1405_longest-happy-string.md)|confident|https://leetcode.com/problems/longest-happy-string|
 |1441|Build an Array With Stack Operations|[confident/1441_build-an-array-with-stack-operations.md](./confident/1441_build-an-array-with-stack-operations.md)|confident|https://leetcode.com/problems/build-an-array-with-stack-operations|
 |1448|Count Good Nodes in Binary Tree|[confident/1448_count-good-nodes-in-binary-tree.md](./confident/1448_count-good-nodes-in-binary-tree.md)|confident|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
 |1512|Number of Good Pairs|[confident/1512_number-of-good-pairs.md](./confident/1512_number-of-good-pairs.md)|confident|https://leetcode.com/problems/number-of-good-pairs|
