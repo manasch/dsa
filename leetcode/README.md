@@ -99,6 +99,7 @@
 |2530|Maximal Score After Applying K Operations|[confident/2530_maximal-score-after-applying-k-operations.md](./confident/2530_maximal-score-after-applying-k-operations.md)|confident|https://leetcode.com/problems/maximal-score-after-applying-k-operations|
 |2583|Kth Largest Sum in a Binary Tree|[confident/2583_kth-largest-sum-in-a-binary-tree.md](./confident/2583_kth-largest-sum-in-a-binary-tree.md)|confident|https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree|
 |2641|Cousins in Binary Tree II|[confident/2641_cousins-in-binary-tree-ii.md](./confident/2641_cousins-in-binary-tree-ii.md)|confident|https://leetcode.com/problems/cousins-in-binary-tree-ii|
+|2684|Maximum Number of Moves in a Grid|[confident/2684_maximum-number-of-moves-in-a-grid.md](./confident/2684_maximum-number-of-moves-in-a-grid.md)|confident|https://leetcode.com/problems/maximum-number-of-moves-in-a-grid|
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
 |2938|Separate Black and White Balls|[confident/2938_separate-black-and-white-balls.md](./confident/2938_separate-black-and-white-balls.md)|confident|https://leetcode.com/problems/separate-black-and-white-balls|
 |2976|Minimum Cost to Convert String I|[confident/2976_minimum-cost-to-convert-string-i.md](./confident/2976_minimum-cost-to-convert-string-i.md)|confident|https://leetcode.com/problems/minimum-cost-to-convert-string-i|
