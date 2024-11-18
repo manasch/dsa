@@ -87,6 +87,7 @@
 |1561|Maximum Number of Coins You Can Get|[confident/1561_maximum-number-of-coins-you-can-get.md](./confident/1561_maximum-number-of-coins-you-can-get.md)|confident|https://leetcode.com/problems/maximum-number-of-coins-you-can-get|
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
 |1609|Even Odd Tree|[confident/1609_even-odd-tree.md](./confident/1609_even-odd-tree.md)|confident|https://leetcode.com/problems/even-odd-tree|
+|1652|Defuse the Bomb|[confident/1652_defuse-the-bomb.md](./confident/1652_defuse-the-bomb.md)|confident|https://leetcode.com/problems/defuse-the-bomb|
 |1743|Restore the Array From Adjacent Pairs|[confident/1743_restore-the-array-from-adjacent-pairs.md](./confident/1743_restore-the-array-from-adjacent-pairs.md)|confident|https://leetcode.com/problems/restore-the-array-from-adjacent-pairs|
 |1750|Minimum Length of String After Deleting Similar Ends|[confident/1750_minimum-length-of-string-after-deleting-similar-ends.md](./confident/1750_minimum-length-of-string-after-deleting-similar-ends.md)|confident|https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
