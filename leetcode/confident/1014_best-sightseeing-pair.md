@@ -4,6 +4,7 @@
 
 - Medium
 - [Submission](https://leetcode.com/problems/best-sightseeing-pair/submissions/1489531646/)
+- [Submission](https://leetcode.com/problems/best-sightseeing-pair/submissions/1489612393/)
 - array, dynamic-programming
 - Contest: none
 
@@ -64,6 +65,30 @@ public:
             int current = values[i] + i + st.top();
             st.pop();
             res = max(res, current);
+        }
+        return res;
+    }
+};
+
+/*
+
+8 1 5 2 6
+8 2 7 5 10
+8 0 3 -1 2
+*/
+```
+
+```cpp
+class Solution {
+public:
+    int maxScoreSightseeingPair(vector<int>& values) {
+        int n = values.size();
+        int maxVal = values[n - 1] - (n - 1);
+        int res = INT_MIN;
+
+        for (int i = n - 2; i >= 0; --i) {
+            res = max(res, values[i] + i + maxVal);
+            maxVal = max(maxVal, values[i] - i);
         }
         return res;
     }
