@@ -70,6 +70,7 @@
 |973|K Closest Points to Origin|[confident/973_k-closest-points-to-origin.md](./confident/973_k-closest-points-to-origin.md)|confident|https://leetcode.com/problems/k-closest-points-to-origin|
 |988|Smallest String Starting From Leaf|[confident/988_smallest-string-starting-from-leaf.md](./confident/988_smallest-string-starting-from-leaf.md)|confident|https://leetcode.com/problems/smallest-string-starting-from-leaf|
 |994|Rotting Oranges|[confident/994_rotting-oranges.md](./confident/994_rotting-oranges.md)|confident|https://leetcode.com/problems/rotting-oranges|
+|1014|Best Sightseeing Pair|[confident/1014_best-sightseeing-pair.md](./confident/1014_best-sightseeing-pair.md)|confident|https://leetcode.com/problems/best-sightseeing-pair|
 |1046|Last Stone Weight|[confident/1046_last-stone-weight.md](./confident/1046_last-stone-weight.md)|confident|https://leetcode.com/problems/last-stone-weight|
 |1095|Find in Mountain Array|[confident/1095_find-in-mountain-array.md](./confident/1095_find-in-mountain-array.md)|confident|https://leetcode.com/problems/find-in-mountain-array|
 |1110|Delete Nodes And Return Forest|[confident/1110_delete-nodes-and-return-forest.md](./confident/1110_delete-nodes-and-return-forest.md)|confident|https://leetcode.com/problems/delete-nodes-and-return-forest|
