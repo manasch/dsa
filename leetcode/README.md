@@ -211,6 +211,7 @@
 |1091|Shortest Path in Binary Matrix|[review/1091_shortest-path-in-binary-matrix.md](./review/1091_shortest-path-in-binary-matrix.md)|review|https://leetcode.com/problems/shortest-path-in-binary-matrix|
 |1328|Break a Palindrome|[review/1328_break-a-palindrome.md](./review/1328_break-a-palindrome.md)|review|https://leetcode.com/problems/break-a-palindrome|
 |1365|How Many Numbers Are Smaller Than the Current Number|[review/1365_how-many-numbers-are-smaller-than-the-current-number.md](./review/1365_how-many-numbers-are-smaller-than-the-current-number.md)|review|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
+|1400|Construct K Palindrome Strings|[review/1400_construct-k-palindrome-strings.md](./review/1400_construct-k-palindrome-strings.md)|review|https://leetcode.com/problems/construct-k-palindrome-strings|
 |1463|Cherry Pickup II|[review/1463_cherry-pickup-ii.md](./review/1463_cherry-pickup-ii.md)|review|https://leetcode.com/problems/cherry-pickup-ii|
 |1631|Path With Minimum Effort|[review/1631_path-with-minimum-effort.md](./review/1631_path-with-minimum-effort.md)|review|https://leetcode.com/problems/path-with-minimum-effort|
 |1647|Minimum Deletions to Make Character Frequencies Unique|[review/1647_minimum-deletions-to-make-character-frequencies-unique.md](./review/1647_minimum-deletions-to-make-character-frequencies-unique.md)|review|https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique|
