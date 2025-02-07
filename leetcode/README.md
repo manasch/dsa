@@ -56,12 +56,14 @@
 |389|Find the Difference|[confident/389_find-the-difference.md](./confident/389_find-the-difference.md)|confident|https://leetcode.com/problems/find-the-difference|
 |399|Evaluate Division|[confident/399_evaluate-division.md](./confident/399_evaluate-division.md)|confident|https://leetcode.com/problems/evaluate-division|
 |557|Reverse Words in a String III|[confident/557_reverse-words-in-a-string-iii.md](./confident/557_reverse-words-in-a-string-iii.md)|confident|https://leetcode.com/problems/reverse-words-in-a-string-iii|
+|684|Redundant Connection|[confident/684_redundant-connection.md](./confident/684_redundant-connection.md)|confident|https://leetcode.com/problems/redundant-connection|
 |695|Max Area of Island|[confident/695_max-area-of-island.md](./confident/695_max-area-of-island.md)|confident|https://leetcode.com/problems/max-area-of-island|
 |706|Design HashMap|[confident/706_design-hashmap.md](./confident/706_design-hashmap.md)|confident|https://leetcode.com/problems/design-hashmap|
 |725|Split Linked List in Parts|[confident/725_split-linked-list-in-parts.md](./confident/725_split-linked-list-in-parts.md)|confident|https://leetcode.com/problems/split-linked-list-in-parts|
 |740|Delete and Earn|[confident/740_delete-and-earn.md](./confident/740_delete-and-earn.md)|confident|https://leetcode.com/problems/delete-and-earn|
 |743|Network Delay Time|[confident/743_network-delay-time.md](./confident/743_network-delay-time.md)|confident|https://leetcode.com/problems/network-delay-time|
 |763|Partition Labels|[confident/763_partition-labels.md](./confident/763_partition-labels.md)|confident|https://leetcode.com/problems/partition-labels|
+|802|Find Eventual Safe States|[confident/802_find-eventual-safe-states.md](./confident/802_find-eventual-safe-states.md)|confident|https://leetcode.com/problems/find-eventual-safe-states|
 |852|Peak Index in a Mountain Array|[confident/852_peak-index-in-a-mountain-array.md](./confident/852_peak-index-in-a-mountain-array.md)|confident|https://leetcode.com/problems/peak-index-in-a-mountain-array|
 |896|Monotonic Array|[confident/896_monotonic-array.md](./confident/896_monotonic-array.md)|confident|https://leetcode.com/problems/monotonic-array|
 |905|Sort Array By Parity|[confident/905_sort-array-by-parity.md](./confident/905_sort-array-by-parity.md)|confident|https://leetcode.com/problems/sort-array-by-parity|
@@ -76,6 +78,7 @@
 |1110|Delete Nodes And Return Forest|[confident/1110_delete-nodes-and-return-forest.md](./confident/1110_delete-nodes-and-return-forest.md)|confident|https://leetcode.com/problems/delete-nodes-and-return-forest|
 |1143|Longest Common Subsequence|[confident/1143_longest-common-subsequence.md](./confident/1143_longest-common-subsequence.md)|confident|https://leetcode.com/problems/longest-common-subsequence|
 |1220|Count Vowels Permutation|[confident/1220_count-vowels-permutation.md](./confident/1220_count-vowels-permutation.md)|confident|https://leetcode.com/problems/count-vowels-permutation|
+|1267|Count Servers that Communicate|[confident/1267_count-servers-that-communicate.md](./confident/1267_count-servers-that-communicate.md)|confident|https://leetcode.com/problems/count-servers-that-communicate|
 |1269|Number of Ways to Stay in the Same Place After Some Steps|[confident/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps.md](./confident/1269_number-of-ways-to-stay-in-the-same-place-after-some-steps.md)|confident|https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps|
 |1282|Group the People Given the Group Size They Belong To|[confident/1282_group-the-people-given-the-group-size-they-belong-to.md](./confident/1282_group-the-people-given-the-group-size-they-belong-to.md)|confident|https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to|
 |1325|Delete Leaves With a Given Value|[confident/1325_delete-leaves-with-a-given-value.md](./confident/1325_delete-leaves-with-a-given-value.md)|confident|https://leetcode.com/problems/delete-leaves-with-a-given-value|
@@ -89,19 +92,27 @@
 |1584|Min Cost to Connect All Points|[confident/1584_min-cost-to-connect-all-points.md](./confident/1584_min-cost-to-connect-all-points.md)|confident|https://leetcode.com/problems/min-cost-to-connect-all-points|
 |1609|Even Odd Tree|[confident/1609_even-odd-tree.md](./confident/1609_even-odd-tree.md)|confident|https://leetcode.com/problems/even-odd-tree|
 |1652|Defuse the Bomb|[confident/1652_defuse-the-bomb.md](./confident/1652_defuse-the-bomb.md)|confident|https://leetcode.com/problems/defuse-the-bomb|
+|1726|Tuple with Same Product|[confident/1726_tuple-with-same-product.md](./confident/1726_tuple-with-same-product.md)|confident|https://leetcode.com/problems/tuple-with-same-product|
 |1743|Restore the Array From Adjacent Pairs|[confident/1743_restore-the-array-from-adjacent-pairs.md](./confident/1743_restore-the-array-from-adjacent-pairs.md)|confident|https://leetcode.com/problems/restore-the-array-from-adjacent-pairs|
 |1750|Minimum Length of String After Deleting Similar Ends|[confident/1750_minimum-length-of-string-after-deleting-similar-ends.md](./confident/1750_minimum-length-of-string-after-deleting-similar-ends.md)|confident|https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends|
+|1752|Check if Array Is Sorted and Rotated|[confident/1752_check-if-array-is-sorted-and-rotated.md](./confident/1752_check-if-array-is-sorted-and-rotated.md)|confident|https://leetcode.com/problems/check-if-array-is-sorted-and-rotated|
 |1759|Count Number of Homogenous Substrings|[confident/1759_count-number-of-homogenous-substrings.md](./confident/1759_count-number-of-homogenous-substrings.md)|confident|https://leetcode.com/problems/count-number-of-homogenous-substrings|
+|1790|Check if One String Swap Can Make Strings Equal|[confident/1790_check-if-one-string-swap-can-make-strings-equal.md](./confident/1790_check-if-one-string-swap-can-make-strings-equal.md)|confident|https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal|
+|1800|Maximum Ascending Subarray Sum|[confident/1800_maximum-ascending-subarray-sum.md](./confident/1800_maximum-ascending-subarray-sum.md)|confident|https://leetcode.com/problems/maximum-ascending-subarray-sum|
 |1877|Minimize Maximum Pair Sum in Array|[confident/1877_minimize-maximum-pair-sum-in-array.md](./confident/1877_minimize-maximum-pair-sum-in-array.md)|confident|https://leetcode.com/problems/minimize-maximum-pair-sum-in-array|
 |1887|Reduction Operations to Make the Array Elements Equal|[confident/1887_reduction-operations-to-make-the-array-elements-equal.md](./confident/1887_reduction-operations-to-make-the-array-elements-equal.md)|confident|https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal|
 |1921|Eliminate Maximum Number of Monsters|[confident/1921_eliminate-maximum-number-of-monsters.md](./confident/1921_eliminate-maximum-number-of-monsters.md)|confident|https://leetcode.com/problems/eliminate-maximum-number-of-monsters|
 |2038|Remove Colored Pieces if Both Neighbors are the Same Color|[confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md](./confident/2038_remove-colored-pieces-if-both-neighbors-are-the-same-color.md)|confident|https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color|
 |2073|Time Needed to Buy Tickets|[confident/2073_time-needed-to-buy-tickets.md](./confident/2073_time-needed-to-buy-tickets.md)|confident|https://leetcode.com/problems/time-needed-to-buy-tickets|
 |2265|Count Nodes Equal to Average of Subtree|[confident/2265_count-nodes-equal-to-average-of-subtree.md](./confident/2265_count-nodes-equal-to-average-of-subtree.md)|confident|https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree|
+|2425|Bitwise XOR of All Pairings|[confident/2425_bitwise-xor-of-all-pairings.md](./confident/2425_bitwise-xor-of-all-pairings.md)|confident|https://leetcode.com/problems/bitwise-xor-of-all-pairings|
 |2530|Maximal Score After Applying K Operations|[confident/2530_maximal-score-after-applying-k-operations.md](./confident/2530_maximal-score-after-applying-k-operations.md)|confident|https://leetcode.com/problems/maximal-score-after-applying-k-operations|
 |2554|Maximum Number of Integers to Choose From a Range I|[confident/2554_maximum-number-of-integers-to-choose-from-a-range-i.md](./confident/2554_maximum-number-of-integers-to-choose-from-a-range-i.md)|confident|https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i|
 |2583|Kth Largest Sum in a Binary Tree|[confident/2583_kth-largest-sum-in-a-binary-tree.md](./confident/2583_kth-largest-sum-in-a-binary-tree.md)|confident|https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree|
 |2641|Cousins in Binary Tree II|[confident/2641_cousins-in-binary-tree-ii.md](./confident/2641_cousins-in-binary-tree-ii.md)|confident|https://leetcode.com/problems/cousins-in-binary-tree-ii|
+|2657|Find the Prefix Common Array of Two Arrays|[confident/2657_find-the-prefix-common-array-of-two-arrays.md](./confident/2657_find-the-prefix-common-array-of-two-arrays.md)|confident|https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays|
+|2658|Maximum Number of Fish in a Grid|[confident/2658_maximum-number-of-fish-in-a-grid.md](./confident/2658_maximum-number-of-fish-in-a-grid.md)|confident|https://leetcode.com/problems/maximum-number-of-fish-in-a-grid|
+|2661|First Completely Painted Row or Column|[confident/2661_first-completely-painted-row-or-column.md](./confident/2661_first-completely-painted-row-or-column.md)|confident|https://leetcode.com/problems/first-completely-painted-row-or-column|
 |2684|Maximum Number of Moves in a Grid|[confident/2684_maximum-number-of-moves-in-a-grid.md](./confident/2684_maximum-number-of-moves-in-a-grid.md)|confident|https://leetcode.com/problems/maximum-number-of-moves-in-a-grid|
 |2785|Sort Vowels in a String|[confident/2785_sort-vowels-in-a-string.md](./confident/2785_sort-vowels-in-a-string.md)|confident|https://leetcode.com/problems/sort-vowels-in-a-string|
 |2825|Make String a Subsequence Using Cyclic Increments|[confident/2825_make-string-a-subsequence-using-cyclic-increments.md](./confident/2825_make-string-a-subsequence-using-cyclic-increments.md)|confident|https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments|
@@ -111,9 +122,13 @@
 |3021|Alice and Bob Playing Flower Game|[confident/3021_alice-and-bob-playing-flower-game.md](./confident/3021_alice-and-bob-playing-flower-game.md)|confident|https://leetcode.com/problems/alice-and-bob-playing-flower-game|
 |3038|Maximum Number of Operations With the Same Score I|[confident/3038_maximum-number-of-operations-with-the-same-score-i.md](./confident/3038_maximum-number-of-operations-with-the-same-score-i.md)|confident|https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i|
 |3039|Apply Operations to Make String Empty|[confident/3039_apply-operations-to-make-string-empty.md](./confident/3039_apply-operations-to-make-string-empty.md)|confident|https://leetcode.com/problems/apply-operations-to-make-string-empty|
+|3105|Longest Strictly Increasing or Strictly Decreasing Subarray|[confident/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.md](./confident/3105_longest-strictly-increasing-or-strictly-decreasing-subarray.md)|confident|https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray|
+|3151|Special Array I|[confident/3151_special-array-i.md](./confident/3151_special-array-i.md)|confident|https://leetcode.com/problems/special-array-i|
+|3160|Find the Number of Distinct Colors Among the Balls|[confident/3160_find-the-number-of-distinct-colors-among-the-balls.md](./confident/3160_find-the-number-of-distinct-colors-among-the-balls.md)|confident|https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls|
 |3190|Find Minimum Operations to Make All Elements Divisible by Three|[confident/3190_find-minimum-operations-to-make-all-elements-divisible-by-three.md](./confident/3190_find-minimum-operations-to-make-all-elements-divisible-by-three.md)|confident|https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three|
 |3191|Minimum Operations to Make Binary Array Elements Equal to One I|[confident/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.md](./confident/3191_minimum-operations-to-make-binary-array-elements-equal-to-one-i.md)|confident|https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i|
 |3192|Minimum Operations to Make Binary Array Elements Equal to One II|[confident/3192_minimum-operations-to-make-binary-array-elements-equal-to-one-ii.md](./confident/3192_minimum-operations-to-make-binary-array-elements-equal-to-one-ii.md)|confident|https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii|
+|3223|Minimum Length of String After Operations|[confident/3223_minimum-length-of-string-after-operations.md](./confident/3223_minimum-length-of-string-after-operations.md)|confident|https://leetcode.com/problems/minimum-length-of-string-after-operations|
 
 ## Hard
 
@@ -136,7 +151,9 @@
 |621|Task Scheduler|[hard/621_task-scheduler.md](./hard/621_task-scheduler.md)|hard|https://leetcode.com/problems/task-scheduler|
 |684|Redundant Connection|[hard/684_redundant-connection.md](./hard/684_redundant-connection.md)|hard|https://leetcode.com/problems/redundant-connection|
 |1706|Where Will the Ball Fall|[hard/1706_where-will-the-ball-fall.md](./hard/1706_where-will-the-ball-fall.md)|hard|https://leetcode.com/problems/where-will-the-ball-fall|
+|2017|Grid Game|[hard/2017_grid-game.md](./hard/2017_grid-game.md)|hard|https://leetcode.com/problems/grid-game|
 |2406|Divide Intervals Into Minimum Number of Groups|[hard/2406_divide-intervals-into-minimum-number-of-groups.md](./hard/2406_divide-intervals-into-minimum-number-of-groups.md)|hard|https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups|
+|2948|Make Lexicographically Smallest Array by Swapping Elements|[hard/2948_make-lexicographically-smallest-array-by-swapping-elements.md](./hard/2948_make-lexicographically-smallest-array-by-swapping-elements.md)|hard|https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements|
 
 ## Ratio
 
@@ -212,10 +229,12 @@
 |1328|Break a Palindrome|[review/1328_break-a-palindrome.md](./review/1328_break-a-palindrome.md)|review|https://leetcode.com/problems/break-a-palindrome|
 |1365|How Many Numbers Are Smaller Than the Current Number|[review/1365_how-many-numbers-are-smaller-than-the-current-number.md](./review/1365_how-many-numbers-are-smaller-than-the-current-number.md)|review|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
 |1400|Construct K Palindrome Strings|[review/1400_construct-k-palindrome-strings.md](./review/1400_construct-k-palindrome-strings.md)|review|https://leetcode.com/problems/construct-k-palindrome-strings|
+|1462|Course Schedule IV|[review/1462_course-schedule-iv.md](./review/1462_course-schedule-iv.md)|review|https://leetcode.com/problems/course-schedule-iv|
 |1463|Cherry Pickup II|[review/1463_cherry-pickup-ii.md](./review/1463_cherry-pickup-ii.md)|review|https://leetcode.com/problems/cherry-pickup-ii|
 |1631|Path With Minimum Effort|[review/1631_path-with-minimum-effort.md](./review/1631_path-with-minimum-effort.md)|review|https://leetcode.com/problems/path-with-minimum-effort|
 |1647|Minimum Deletions to Make Character Frequencies Unique|[review/1647_minimum-deletions-to-make-character-frequencies-unique.md](./review/1647_minimum-deletions-to-make-character-frequencies-unique.md)|review|https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique|
 |1658|Minimum Operations to Reduce X to Zero|[review/1658_minimum-operations-to-reduce-x-to-zero.md](./review/1658_minimum-operations-to-reduce-x-to-zero.md)|review|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
+|1765|Map of Highest Peak|[review/1765_map-of-highest-peak.md](./review/1765_map-of-highest-peak.md)|review|https://leetcode.com/problems/map-of-highest-peak|
 |1769|Minimum Number of Operations to Move All Balls to Each Box|[review/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.md](./review/1769_minimum-number-of-operations-to-move-all-balls-to-each-box.md)|review|https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box|
 |1814|Count Nice Pairs in an Array|[review/1814_count-nice-pairs-in-an-array.md](./review/1814_count-nice-pairs-in-an-array.md)|review|https://leetcode.com/problems/count-nice-pairs-in-an-array|
 |1846|Maximum Element After Decreasing and Rearranging|[review/1846_maximum-element-after-decreasing-and-rearranging.md](./review/1846_maximum-element-after-decreasing-and-rearranging.md)|review|https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging|
@@ -227,7 +246,9 @@
 |2251|Number of Flowers in Full Bloom|[review/2251_number-of-flowers-in-full-bloom.md](./review/2251_number-of-flowers-in-full-bloom.md)|review|https://leetcode.com/problems/number-of-flowers-in-full-bloom|
 |2337|Move Pieces to Obtain a String|[review/2337_move-pieces-to-obtain-a-string.md](./review/2337_move-pieces-to-obtain-a-string.md)|review|https://leetcode.com/problems/move-pieces-to-obtain-a-string|
 |2369|Check if There is a Valid Partition For The Array|[review/2369_check-if-there-is-a-valid-partition-for-the-array.md](./review/2369_check-if-there-is-a-valid-partition-for-the-array.md)|review|https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array|
+|2429|Minimize XOR|[review/2429_minimize-xor.md](./review/2429_minimize-xor.md)|review|https://leetcode.com/problems/minimize-xor|
 |2461|Maximum Sum of Distinct Subarrays With Length K|[review/2461_maximum-sum-of-distinct-subarrays-with-length-k.md](./review/2461_maximum-sum-of-distinct-subarrays-with-length-k.md)|review|https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k|
 |2610|Convert an Array Into a 2D Array With Conditions|[review/2610_convert-an-array-into-a-2d-array-with-conditions.md](./review/2610_convert-an-array-into-a-2d-array-with-conditions.md)|review|https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions|
+|2683|Neighboring Bitwise XOR|[review/2683_neighboring-bitwise-xor.md](./review/2683_neighboring-bitwise-xor.md)|review|https://leetcode.com/problems/neighboring-bitwise-xor|
 |3040|Maximum Number of Operations With the Same Score II|[review/3040_maximum-number-of-operations-with-the-same-score-ii.md](./review/3040_maximum-number-of-operations-with-the-same-score-ii.md)|review|https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii|
 |3316|Find Maximum Removals From Source String|[review/3316_find-maximum-removals-from-source-string.md](./review/3316_find-maximum-removals-from-source-string.md)|review|https://leetcode.com/problems/find-maximum-removals-from-source-string|
