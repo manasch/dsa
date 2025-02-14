@@ -231,6 +231,7 @@
 |1048|Longest String Chain|[review/1048_longest-string-chain.md](./review/1048_longest-string-chain.md)|review|https://leetcode.com/problems/longest-string-chain|
 |1091|Shortest Path in Binary Matrix|[review/1091_shortest-path-in-binary-matrix.md](./review/1091_shortest-path-in-binary-matrix.md)|review|https://leetcode.com/problems/shortest-path-in-binary-matrix|
 |1328|Break a Palindrome|[review/1328_break-a-palindrome.md](./review/1328_break-a-palindrome.md)|review|https://leetcode.com/problems/break-a-palindrome|
+|1352|Product of the Last K Numbers|[review/1352_product-of-the-last-k-numbers.md](./review/1352_product-of-the-last-k-numbers.md)|review|https://leetcode.com/problems/product-of-the-last-k-numbers|
 |1365|How Many Numbers Are Smaller Than the Current Number|[review/1365_how-many-numbers-are-smaller-than-the-current-number.md](./review/1365_how-many-numbers-are-smaller-than-the-current-number.md)|review|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
 |1400|Construct K Palindrome Strings|[review/1400_construct-k-palindrome-strings.md](./review/1400_construct-k-palindrome-strings.md)|review|https://leetcode.com/problems/construct-k-palindrome-strings|
 |1462|Course Schedule IV|[review/1462_course-schedule-iv.md](./review/1462_course-schedule-iv.md)|review|https://leetcode.com/problems/course-schedule-iv|
