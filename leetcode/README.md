@@ -227,6 +227,7 @@
 |846|Hand of Straights|[review/846_hand-of-straights.md](./review/846_hand-of-straights.md)|review|https://leetcode.com/problems/hand-of-straights|
 |853|Car Fleet|[review/853_car-fleet.md](./review/853_car-fleet.md)|review|https://leetcode.com/problems/car-fleet|
 |909|Snakes and Ladders|[review/909_snakes-and-ladders.md](./review/909_snakes-and-ladders.md)|review|https://leetcode.com/problems/snakes-and-ladders|
+|1028|Recover a Tree From Preorder Traversal|[review/1028_recover-a-tree-from-preorder-traversal.md](./review/1028_recover-a-tree-from-preorder-traversal.md)|review|https://leetcode.com/problems/recover-a-tree-from-preorder-traversal|
 |1043|Partition Array for Maximum Sum|[review/1043_partition-array-for-maximum-sum.md](./review/1043_partition-array-for-maximum-sum.md)|review|https://leetcode.com/problems/partition-array-for-maximum-sum|
 |1048|Longest String Chain|[review/1048_longest-string-chain.md](./review/1048_longest-string-chain.md)|review|https://leetcode.com/problems/longest-string-chain|
 |1091|Shortest Path in Binary Matrix|[review/1091_shortest-path-in-binary-matrix.md](./review/1091_shortest-path-in-binary-matrix.md)|review|https://leetcode.com/problems/shortest-path-in-binary-matrix|
